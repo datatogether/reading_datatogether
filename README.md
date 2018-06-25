@@ -50,6 +50,7 @@ Sometimes when we talk about DT we use phrases like "communities taking ownershi
     - HOW PLATFORM COOPERATIVISM CAN UNLEASH THE NETWORK - TREBOR SCHOLZ (Clearest overview)
     - [COUNTERANTI- DISINTERMEDIATION](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation) -  DMYTRI KLEINER?
     - THE MEANINGS OF WORDS - NATHAN SCHNEIDER? (focused on democracy)
+- Something about [Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)
 - [Albrechtslund. "Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads"](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
 
 
