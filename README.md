@@ -1,25 +1,15 @@
 Data. Together. Let's read about it
 ====
 
-We want to understand better just what it is that we're doing! The goal of this "syllabus" is to identify some key themes that drive Data Together as a project & as a politics, and to find some readings that help us understand those themes better.
-
-Once a month on **Tuesday afternoon** we'll host a 1.5 hour discussion of one themes over summer 2018. Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to facilitate discussion.
-
 📅 15:30-17:00 ET Tuesdays [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
 ▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
-## Reading Group Logistics
+We want to understand better just what it is that we're doing! The goal of this "syllabus" is to identify some key themes that drive Data Together as a project & as a politics, and to find some readings that help us understand those themes better.
 
-Per session:
-- Facilitator (Guiding frame: what should we care about here)
-- 1-2 volunteers for an additional reading
+Once a month on **Tuesday afternoon** we'll host a 1.5 hour discussion of one of [six themes](#themes) over summer 2018. Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to facilitate discussion.
 
-Outcomes:
-- We learn together!
-- Document from discussion, with an eye to
-    - Feeding out DT Principles
-    - Larger life? Mozilla Open Leaders! Community Research DAT and IPFS together? Decentralized Web Summit?
+From this initial iteration, our hope is that the following outcomes occur: first, we learn together! second, through documenting the discussion we understand Data Together principles and see opportunities to feed into ongoing other initiatives and projects
 
 ## Themes  
 
