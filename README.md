@@ -3,14 +3,13 @@ Data. Together. Let's read about it
 
 We want to understand better just what it is that we're doing! The goal of this "syllabus" is to identify some key themes that drive Data Together as a project & as a politics, and to find some readings that help us understand those themes better.
 
-# Structure
+Once a month on **Tuesday afternoon** we'll host a 1.5 hour discussion of one themes over summer 2018. Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to facilitate discussion.
 
-We're imagining that we'll take one of our weekly meetings every month and turn it into a discussion of one of the themes. Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to facilitate discussion, which involves identifying some discussion questions & doing some further background reading.
+📅 15:30-17:00 ET Tuesdays [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
+🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)
+▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
-1.5 hr conversation
-Tuesdays 15:30-17:00 ET
-
-
+# Reading Group Logistics
 
 Per session:
 - Facilitator (Guiding frame: what should we care about here)
@@ -31,16 +30,19 @@ Outcomes:
 - Privacy (September 25)
 - Justice (October 30)
 
+# Sessions
 
-## What is the decentralized web? (Decentralized, Distributed)
+## A view on the decentralized (distributed) web
 
-Just getting us all on the same page about this very, er, central question, and also working through distinctions between similar terms (especially) decentralized, distributed, federated, p2p).
+Just getting us all on the same page about this very, err... central question, and also working through distinctions between similar terms (especially) decentralized, distributed, federated, p2p.
 
-**Readings**
+**Readings**:
 
-- Brewster Kahle: [Locking the Web Open, a Call for a Distributed Web](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/) or  [Locking the Web Open: A Call for a Decentralized Web (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/)
-- André Staltz ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
-- [Baran, P. (1964). _On Distributed Communication Networks_ (No. RM-4230-PR). Santa Monica, CA: Rand Corporation.](https://www.rand.org/pubs/research_memoranda/RM3420.html)
+- Brewster Kahle: [Locking the Web Open, a Call for a Distributed Web](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/) (2015)
+  - Alternate: [Locking the Web Open: A Call for a Decentralized Web (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/) (2015)
+- André Staltz ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html) (2017)
+- Paul Baran [_On Distributed Communications_ (No. RM-4230-PR). Santa Monica, CA: Rand Corporation. doi:10.7249/RM3420 ](https://www.rand.org/pubs/research_memoranda/RM3420.html) (1964)
+  - Alternate: [On Distributed Communications Networks. _ IEEE Transactions on Communications Systems_, 12(1). doi:10.1109/TCOM.1964.1088883](https://ieeexplore.ieee.org/abstract/document/1088883/) (1964)
 
 ## Ownership (July 24)
 
@@ -67,7 +69,7 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 - [Defending Internet Freedom through Decentralization: Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
 - [Helmond. The platformization of the web. (2015)](http://journals.sagepub.com/doi/abs/10.1177/2056305115603080)
 
-## Privacy ? (September 25)
+## Privacy (September 25)
 
 Lately we've been hearing some interesting critiques of "privacy as a concept and moral imperative". Let's see if we think they hame sense.
 
