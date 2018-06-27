@@ -27,8 +27,8 @@ Outcomes:
 - [Ownership](#ownership) (July 24)
 - [Commons](#commons) (August 21)
 - [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)
-- Privacy (September 25)
-- Justice (October 30)
+- [Privacy](#privacy) (September 25)
+- [Justice](#justice) (October 30)
 
 ## Sessions
 
@@ -74,7 +74,7 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 - [Defending Internet Freedom through Decentralization: Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
 - [Helmond. The platformization of the web. (2015)](http://journals.sagepub.com/doi/abs/10.1177/2056305115603080)
 
-### Privacy (September 25)
+### Privacy
 
 Lately we've been hearing some interesting critiques of "privacy as a concept and moral imperative". Let's see if we think they hame sense.
 
@@ -83,7 +83,7 @@ Lately we've been hearing some interesting critiques of "privacy as a concept an
 - [Lepore, Jill Privacy in an Age of Publicity](https://www.newyorker.com/magazine/2013/06/24/the-prism)
 - Wendy Chun Talk, Right to Loiter [Mumbai women assert their right to loiter](http://www.thehindu.com/news/cities/mumbai/Mumbai-women-assert-their-right-to-loiter/article16898193.ece)
 
-### Justice (October 30)
+### Justice
 
 What is right matters, why go to justice (rather than...), what is fair is discernable (there is something wrong) (Social Justice, Environmental Justice, Data Justice, Design Justice)
 
