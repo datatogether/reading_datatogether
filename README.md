@@ -38,23 +38,27 @@ Just getting us all on the same page about this very, err... central question, a
 
 **Readings**:
 
-- Brewster Kahle: [Locking the Web Open, a Call for a Distributed Web](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/) (2015)
-  - Alternate: [Locking the Web Open: A Call for a Decentralized Web (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/) (2015)
-- André Staltz ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html) (2017)
-- Paul Baran [_On Distributed Communications_ (No. RM-4230-PR). Santa Monica, CA: Rand Corporation. doi:10.7249/RM3420 ](https://www.rand.org/pubs/research_memoranda/RM3420.html) (1964)
-  - Alternate: [On Distributed Communications Networks. _ IEEE Transactions on Communications Systems_, 12(1). doi:10.1109/TCOM.1964.1088883](https://ieeexplore.ieee.org/abstract/document/1088883/) (1964)
+- Brewster Kahle (2015) ["Locking the Web Open, a Call for a Distributed Web"](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/)
+  - _Alternate_: Brewster Kahle (2015) ["Locking the Web Open: A Call for a Decentralized Web" (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/)
+- André Staltz (2017) ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
+- Paul Baran (1964) [On Distributed Communications (No. RM-4230-PR). Santa Monica, CA: Rand Corporation. doi:10.7249/RM3420 ](https://www.rand.org/pubs/research_memoranda/RM3420.html)
+  - _Alternate_: Paul Baran (1964) [On Distributed Communications Networks. _IEEE Transactions on Communications Systems_, 12(1). doi:10.1109/TCOM.1964.1088883](https://ieeexplore.ieee.org/abstract/document/1088883/)
 
 ### Ownership
 
-Sometimes when we talk about DT we use phrases like "communities taking ownership of their data". What do we mean, and why is this language important to us? How should we think about "ownership" as a value, and in what ways are individual and collective ownership different from each other?
+Sometimes when we talk about Data Together we use phrases like "communities taking ownership of their data". What do we mean, and why is this language important to us?
+
+How should we think about "ownership" as a value, and in what ways are individual and collective ownership different from each other?
 
 **Readings**:
 
-- Something from 'Ours to hack and ours to own' Scholz
-  - how platform cooperativism can unleash the network - trebor scholz (Clearest overview)
-  - [counteranti- disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation) -  dmytri kleiner?
-  - the meanings of words - nathan schneider? (focused on democracy)
-- Something about [Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)- [Albrechtslund. "Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads"](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
+- Selections from [_Ours to Hack and to Own_](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/) (2016) edited by Trebor Scholz and Nathan Schneider
+  - Chapter 3: Trebor Scholz - How Platform Cooperativism Can Unleash the Network
+  - Chapter 2: Nathan Schneider - The Meanings of Words
+  - Chapter 12: Dmytri Kleiner - Counterantidisintermediation
+    - _See also_: P2P Foundation wiki entry on [Counter-Anti-Disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
+- Anne-Mette Albrechtslund (2017) [Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads. _First Monday_, may 2017. doi:10.5210/fm.v22i5.7095 ](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
+- **Something about [Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**
 
 ### Commons
 
