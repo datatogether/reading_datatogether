@@ -49,6 +49,8 @@ How should we think about "ownership" as a value, and in what ways are individua
     - _See also_: P2P Foundation wiki entry on [Counter-Anti-Disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
 - Anne-Mette Albrechtslund (2017) [Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads. _First Monday_, may 2017. doi:10.5210/fm.v22i5.7095 ](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
 - **Something about [Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**
+- (Bonus) [Trademarks, copyrights and common law: possession is only nine-tenths of the law](http://kelleykeller.com/the-limitations-of-common-law-possession-is-only-nine-tenths-of-the-law/)
+- (Bonus x2) [The Problematic Concept of Possession in the DCFR: Lessons from Law and Economics of Possession](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741200)
 
 ### Commons
 
