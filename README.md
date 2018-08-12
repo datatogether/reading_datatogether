@@ -59,8 +59,14 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 **Readings**:
 
 - Ostrom, _Governing the Commons_ Chapter 1 and/or Chapter 2
-- Linebaugh, "Enclosures from the Bottom Up,"_Stop, Thief!_ Chapter 9
-- De Filippi, P., & Tréguer, F. (2015). Expanding the Internet commons: The subversive potential of wireless community networks.
+([Archive.org](https://archive.org/details/ElinorOstromGoverningTheCommons))
+([WorldCat](https://www.worldcat.org/title/governing-the-commons-the-evolution-of-institutions-for-collective-action/oclc/1029210913))
+([Amazon](https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/0521405998))
+- Linebaugh, "Enclosures from the Bottom Up," _Stop, Thief!_ Chapter 9
+([WorldCat](https://www.worldcat.org/title/stop-thief-the-commons-enclosures-and-resistance/oclc/1002229329))
+([Academia.edu](https://www.academia.edu/11651199/Peter_Linebaugh-_Stop_Thief_The_Commons_Enclosures_and_Resistance-PM_Press_2014_))
+([Amazon.com](https://www.amazon.com/Stop-Thief-Commons-Enclosures-Resistance/dp/1604867477/))
+- [De Filippi, P., & Tréguer, F. (2015). Expanding the Internet commons: The subversive potential of wireless community networks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725358)
 
 ### Centralization vs. Decentralization (and Peer-to-peer, Federation)
 
