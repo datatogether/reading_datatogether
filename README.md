@@ -34,6 +34,7 @@ Just getting us all on the same page about this very, err... central question, a
 - Paul Baran (1964) [On Distributed Communications (No. RM-4230-PR). Santa Monica, CA: Rand Corporation. doi:10.7249/RM3420 ](https://www.rand.org/pubs/research_memoranda/RM3420.html)
   - _Alternate_: Paul Baran (1964) [On Distributed Communications Networks. _IEEE Transactions on Communications Systems_, 12(1). doi:10.1109/TCOM.1964.1088883](https://ieeexplore.ieee.org/abstract/document/1088883/)
 
+
 ### Ownership
 
 Sometimes when we talk about Data Together we use phrases like "communities taking ownership of their data". What do we mean, and why is this language important to us?
@@ -42,15 +43,16 @@ How should we think about "ownership" as a value, and in what ways are individua
 
 **Readings**:
 
-- Selections from [_Ours to Hack and to Own_](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/) (2016) edited by Trebor Scholz and Nathan Schneider
+- Selections from [_Ours to Hack and to Own_](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/) (2016) edited by Trebor Scholz and Nathan Schneider ([WorldCat](https://www.worldcat.org/title/ours-to-hack-and-to-own-the-rise-of-platform-cooperativism-a-new-vision-for-the-future-of-work-and-a-fairer-internet/oclc/1044840227))
   - Chapter 3: Trebor Scholz - How Platform Cooperativism Can Unleash the Network
   - Chapter 2: Nathan Schneider - The Meanings of Words
   - Chapter 12: Dmytri Kleiner - Counterantidisintermediation
     - _See also_: P2P Foundation wiki entry on [Counter-Anti-Disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
 - Anne-Mette Albrechtslund (2017) [Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads. _First Monday_, may 2017. doi:10.5210/fm.v22i5.7095 ](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
-- **Something about [Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**
-- (Bonus) [Trademarks, copyrights and common law: possession is only nine-tenths of the law](http://kelleykeller.com/the-limitations-of-common-law-possession-is-only-nine-tenths-of-the-law/)
-- (Bonus x2) [The Problematic Concept of Possession in the DCFR: Lessons from Law and Economics of Possession](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741200)
+- **[Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**. (2018, July 15). In _Wikipedia, The Free Encyclopedia_. 
+    - _See also_: [Trademarks, copyrights and common law: possession is only nine-tenths of the law](http://kelleykeller.com/the-limitations-of-common-law-possession-is-only-nine-tenths-of-the-law/)
+    - _See also x2_: [The Problematic Concept of Possession in the DCFR: Lessons from Law and Economics of Possession](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741200)
+
 
 ### Commons
 
@@ -58,15 +60,17 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 
 **Readings**:
 
-- Ostrom, _Governing the Commons_ Chapter 1 and/or Chapter 2
+- Elinor Ostrom (1990) _Governing the Commons_ Chapter 1 and/or 2
 ([Archive.org](https://archive.org/details/ElinorOstromGoverningTheCommons))
 ([WorldCat](https://www.worldcat.org/title/governing-the-commons-the-evolution-of-institutions-for-collective-action/oclc/1029210913))
 ([Amazon](https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/0521405998))
-- Linebaugh, "Enclosures from the Bottom Up," _Stop, Thief!_ Chapter 9
+- Peter Linebaugh (2014) Chapter 9: "Enclosures from the Bottom Up," in _Stop, Thief!_ 
 ([WorldCat](https://www.worldcat.org/title/stop-thief-the-commons-enclosures-and-resistance/oclc/1002229329))
 ([Academia.edu](https://www.academia.edu/11651199/Peter_Linebaugh-_Stop_Thief_The_Commons_Enclosures_and_Resistance-PM_Press_2014_))
 ([Amazon.com](https://www.amazon.com/Stop-Thief-Commons-Enclosures-Resistance/dp/1604867477/))
-- [De Filippi, P., & Tréguer, F. (2015). Expanding the Internet commons: The subversive potential of wireless community networks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725358)
+- [Primavera De Filippi & Felix Tréguer (2015) Expanding the Internet commons: The subversive potential of wireless community networks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725358)
+  - _Alternate_: [Primavera De Filippi & Felix Tréguer (2014) Expanding the Internet commons: The subversive potential of wireless community networks _Journal of Peer Production_](http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/expanding-the-internet-commons-the-subversive-potential-of-wireless-community-networks/) ([**PDF**](http://peerproduction.net/wp-content/uploads/2015/01/De-Filippi-Tr%C3%A9guer-Expanding-the-Internet-Commons-with-Community-Networks.pdf))
+
 
 ### Centralization vs. Decentralization (and Peer-to-peer, Federation)
 
