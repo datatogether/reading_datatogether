@@ -1,0 +1,251 @@
+# Data. Together. Let's read about it
+
+## Ownership (July 24)
+
+### Intro
+
+Sometimes when we talk about Data Together we use phrases like "communities taking ownership of their data". What do we mean, and why is this language important to us?
+where owners wanted to e
+
+**Readings**
+
+- Selections from [_Ours to Hack and to Own_](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/) (2016) edited by Trebor Scholz and Nathan Schneider
+  - Chapter 3: Trebor Scholz - How Platform Cooperativism Can Unleash the Network
+  - Chapter 2: Nathan Schneider - The Meanings of Words
+  - Chapter 12: Dmytri Kleiner - Counterantidisintermediation
+    - _See also_: P2P Foundation wiki entry on [Counter-Anti-Disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
+- Anne-Mette Albrechtslund (2017) [Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads. _First Monday_, may 2017. doi:10.5210/fm.v22i5.7095 ](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
+- **[Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**
+  - (Bonus) [Trademarks, copyrights and common law: possession is only nine-tenths of the law](http://kelleykeller.com/the-limitations-of-common-law-possession-is-only-nine-tenths-of-the-law/)
+  - (Bonus x2) [The Problematic Concept of Possession in the DCFR: Lessons from Law and Economics of Possession](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741200)
+
+### Themes
+
+- In "Meaning of Words," Schneider makes a tight linkage between democracy and ownership. To what extent is this intellectually and tactically the right move?
+- Schneider claims that co-operatives grant a competitive advantage in some situations, but also that they need appropriate government intervention in order to flourish. Discuss.
+- Here's his manifesto. What do we think?
+   > New gizmos come and go so quickly that we hardly notice when the meanings of our words change, and when what we expect of ourselves changes with them. Ordinary people have already made the Internet their own with their hacks, their memes, their protests, and their dreams. The cost of forfeiting control over these things is too high, and too mysterious. We need to expect better, to demand more. It’s time that we own and govern what is ours already.
+- What about physical analogues to what Schneiderman is talking about? POPOS (Privately Owned Public Open Spaces)?
+- Also in Schneiderman, he places a lot of emphasis on ownership of tools and space:
+    > “Making the democratic most of the Information Age,” he wrote in The Cult of Information, “is a matter not only of technology but also of the social organization of that technology.”
+    > What does all this require in terms of individuals using the tech understanding how it works? How do we make that work/support that?
+- In "How Platform Cooperativism...", Scholz places a lot of emphasis on the  virtue of equality. How do we weigh that virtue against others (eg freedom), and in what contexts?
+
+### Meeting Notes
+
+- dcwalk: what are the implications of using language of ownership?
+- b5: every topic seemed to need some paired concept (e.g. use of capitalism in the )
+- mash: wikipedia article the most interesting.  intersections esp around relation between current and future ownership, legal precedent
+- Rob: study of users in goodreads raised a number of topics, but esp -- overlap or disconnect between owners and users of platform.  However goodreads has a disconnect v different from that of readernaught (sp?) where owners wanted to experiment constantly with the platform.  So: what are other ways in which disconnects between owners & users are different from the standard ones
+- Mash: 9/10ths article relevant to many
+    - platform cooperativism framing
+- Brendan: Are there other framings in the language of possession? To what degree do they not map in digital spaces? Thinking about enclosure
+- dcwalk: different ways 9/10s is used?
+- Jeremy: linear history, "we were more naive then..." etc... (as an academic caste), that may not be in aggregate what is going to make most peoples lives better
+    - e.g., Creative Commons licensing on FB
+    - "platformized"
+    - possession and information assymetry (in the act of platforms)
+- Rob: e.g. the conversation on "when the Internet was good"
+- Matt: More general problem of crafting community (Open), ends up shifting from what it was before--open to changing something (maybe you want closed to ensure that things remain the same), e.g. co-ops as a way of maintaining that space
+    - RE: colonization and internet
+    - Also a way that there can be a taking a set of things for granted, or a sertain state of affairs. Marx' Peel analogy (Australia and Capitalism)
+    - Problematic analogy of frontier of internet
+    - But valuable to from that example talk about social-technical and see how a similar infra could support alternatives
+    - What is the nature of the effect that one would like to have? Need social structures alongside technical structures if we want to transform the world we live in.
+    - can we get back to ownership and possession -- when are these things different from one another?
+    - re: goodreads: difference between a *sense* of ownership and *legal ownership*...
+- Mash: Capitalism in relation to the goodreads article: platform owners and tactics (power play)--withdraw labour/strike. Almost a unionization issue, also connection to social contract theory. Without real organization calls to change are inneffective?
+- Seong-Young: inverse relationship between ownership and possession on the internet (draw from the Chap 12 counter-dis-)... relates to how enclosures become // sanctuary
+    - jcahill on chat: difference between an enclosure and a sanctuary: whether you want more to be next to the people inside or outside?
+- Rob: is possession is taken back (whether thru distribute tools), what does that mean on requirements to individuals
+    - dcwalk: there was an individual vs. collective take in the Platform Cooperativism
+- Matt P: Metis heritage and Revolution in Manitoba and post- settlement thru assignment, taken back for failure to cultivate.
+    - historic state role in adjuduication of resources
+    - with this tech assembly what are the outcomes: nationalized? etc... different actors claiming rights to those resources. What are conflicts to expect? resolutions to hope for?
+- possession and Ownership? Can we specify this?
+    - Matt P: Benjamin on Art in the age of Mechanical Reproduction can be low-cost, things are no longer unitary. No longer possess or can possess them easily without owning them.
+    - E.g. Torrents, Netflix, more...
+    - Are there cases you can own something without owning at all?
+        - jeremy: in maritime law i think this is actually possible
+        - https://en.wikipedia.org/wiki/Flotsam,_jetsam,_lagan,_and_derelict
+- Jeremy: "_flotsam, jetsam, lagan, and derelict_" different terms of arts about things based on how you left it there
+    - States of abandonment? and how that relates to continued claim on determining a things use?
+    - Units of analysis tricky here-- parts and wholes. Focusing on objects and material contents. That could include possession of secret key, of a video, an account. But that can fall apart b/c of process of interactions
+        - See patchwork as an example of immediately looking at the social/community aspects (sidestepping blockchain-decentralized-as-object)
+        - https://github.com/ssbc/patchwork
+- "adversely possess things you do not want to claim any involvement"--separate yourself from a thing, removing from a material stake
+- decentralized as a solo term of art is unhelpful (people have an active stake in determining what their section of the graph looks like)
+    - are you replicating a follower of a follower...? what is 3 hops out
+    - platforms do an administrative magic trick (and that has a value proposition)
+    - disintermediate disaggregates performing tasks
+- dcwalk: connects to Platform Cooperativism rules also Commons as self-governance
+- Rob: [The Mushroom at the end of the world](https://press.princeton.edu/titles/10581.html). Different small jurisdictions, commons overlapping, fitting together, and transformed through trade (movement between patchwork groups. e.g, communal mushroom picking in Oregon, middleman in trade, hyper-organized Japanese market)
+    - Connect to blockchain: "hard" rather than social side... how do I take your thing? Transforms social trust to trust in an idea about how much power can have. Aligned with how capitalism does with money
+- Jeremy:
+    - Units of analysis of social network analysis
+        - [Connectivity and complex systems: learning from a multi-disciplinary perspective](https://doi.org/10.1007/s41109-018-0067-2)
+    - Platform Coop model examples
+        - https://platform.coop/directory
+            - https://www.midata.coop
+            - https://resonate.is
+- Reviewed the 7 coop principles and 4 approaches
+    - the four approaches mentioned by Trebor Scholz:
+        1. Standards and guidelines for platforms to be enforced by policy (e.g. Domestic Workers Alliance's "Good Work Code")
+        2. Economic regulations and union rights (e.g. Seattle tax on Uber)
+        3. Developing non-commercial alternatives (e.g. Wikipedia)
+        4. Platform cooperativism
+    - the seven approaches:
+        1. co-operative societies must have an open and voluntary membership.
+        2. co-operative societies must have democratic member control.
+        3. Member economic participation is one of the defining features of co-operative societies, and constitutes the third Rochdale Principle in the ICA's Statement on the Co-operative Identity.
+        4. co-operative societies must be autonomous and independent.
+        5. co-operative societies must provide education and training to their members and the public.
+        6. co-operatives cooperate with each other.
+        7. co-operative societies must have concern for their communities.
+- Coops: cabals with dues, or small local
+  - Example: Streaming service as opposed to [Resonate.is](https://resonate.is)
+- [Mandeville](https://en.wikipedia.org/wiki/Bernard_Mandeville) (Fable of Bees, Greed makes public society work)-->Adam Smith-->Hayek
+- What does possession mean about what people need to know technically? And atomization compute/total distribution?
+
+### Open themes/hot topics/futures
+
+- "debasing history" and web archives (privacy and sanctuary and enclosure)
+- **sanctuary and enclosure**
+- "I think the **commons** will help clarify my own questions, which I think are around understanding what collective ownership is."
+- **decentralized as a solo term of art is unhelpful**
+
+###  Chat Log
+
+00:13:20	dcwalk: Just doing intros matt!
+00:13:37	dcwalk: Asked folks to also add thoughts to the pad
+00:13:54	Matt Price: I can't hear yet.  sorry, hopefully fix it soon.
+00:14:15	dcwalk: okay! do your intro last
+00:14:53	Matt Price: just got it
+00:15:29	jcahill: problems
+00:15:31	jcahill: sorry
+00:15:35	Brendan O'Brien: no worries!
+00:15:59	Matt Price: mash not matt...
+00:16:09	dcwalk: Song-Young you next?
+00:16:13	dcwalk: Then me than matt!
+00:16:14	Brendan O'Brien: welcome mash!
+00:16:21	Matt Price: +1
+00:16:29	dcwalk: Awesome!
+00:16:49	Brendan O'Brien: lovely! welcome Seong-Young!
+00:17:16	dcwalk: JCA if you are able to intro please feel free after matt
+00:17:26	dcwalk: Otherwise I’m handing off facilitator duties
+00:17:49	dcwalk: My fault!
+00:18:32	dcwalk: https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw?view
+00:20:10	mash: me
+00:23:04	mash: https://onlinelibrary.wiley.com/doi/full/10.1002/bult.2006.1720330108 one of the references from the wiki article that I thought was interesting, relates to the goodreads article as well
+00:25:33	jccahill: i switched over machines, and apparently accounts (still jeremy here)
+00:25:54	Rob Brackett: counter-anti, not enough negatives :P
+00:26:04	Brendan O'Brien: counter-anti-dis
+00:26:12	Brendan O'Brien: counter-anti-that
+00:26:12	jccahill: anti-disestablishment-anti-counter-disintermediationism
+00:27:42	Matt Price: plugged i nthis time.
+00:27:56	dcwalk: I poorly stepped in!
+00:28:02	dcwalk: We’re on the wiki article
+00:28:15	dcwalk: (into the rest :)))
+00:30:30	dcwalk: Matt P. you on stack?
+00:30:32	Brendan O'Brien: back when we called it ARPANET?
+00:30:45	Rob Brackett: virtually raising my hand
+00:31:06	Matt Price: yes I'm on stack too.
+00:32:02	Rob Brackett: COLLEGE STUDENT ME NEVER KNEW I COULD HAVE DONE THAT ON FACEBOOK
+00:32:21	Matt Price: me neever
+00:32:45	dcwalk: Stack:
+00:32:46	Brendan O'Brien: and our URL is more popular
+00:32:53	dcwalk: matt p, rob, then me!
+00:33:14	Brendan O'Brien: so sorry team I have to jet. jachill & mash that was lovely!
+00:33:24	dcwalk: by b5!
+00:33:38	mash: byebye!
+00:33:40	dcwalk: :( today is typo day
+00:34:46	jccahill: i don't know enough to speak to the details, but patchwork has been going through some tribulations in its community norms wrt early adopters vs. others
+00:37:35	mash: stack me
+00:39:08	Matt Price: interesting @jccahill
+00:39:12	Matt Price: gotcha mash
+00:41:03	Matt Price: age of mechanical reproduction (benjamin)
+00:41:43	Michelle Brous: Hey team, really sorry but some time sensitive things have landed on my desk over the past 20 mins or so. Going to log off - enjoy the convo!
+00:41:43	Matt Price: the word "capitalism" always so difficult for me b/c it is so broad.
+00:41:57	Seong-Young Her: me next please
+00:42:10	Matt Price: gotta bring in the dog, back to you for 3 mins dcwalk
+00:43:50	dcwalk: phew! you said it so smooth-like :))
+00:45:32	Matt Price: @mash, so I htink you are talking more broadly about the problem of collective action, is that right?  and how people get the notion that they have strong common interests with their peers.
+00:46:04	dcwalk: I like that enclosure // sanctuary pairing. yeah
+00:46:25	jccahill: difference between an enclosure and a sanctuary: whether you want more to be next to the people inside or outside?
+00:46:48	Matt Price: mechanical turks
+00:48:50	jccahill: i'd also like to try to address: the flattening of "audience" and content creators on media platforms, in terms of conflating their interests -- which aren't fully aligned. masha and i went through some platformcoop-endorsed/listed alternatives to sites like spotify
+00:49:00	jccahill: ex. resonate
+00:49:09	Matt Price: that last point from rob strongly reminded me of michelle's trip to winniped this weekend.
+00:49:30	Matt Price: she visited the land her metis ancestors had before the metis rebellion in late c. 19.
+00:50:30	jccahill: dcwalk: that relates to a thing seong and i read recently, about the units of analysis for measuring connectivity in different fields
+00:50:56	jccahill: is the "more fundamental" unit of social network analysis an actor, or an interaction?
+00:51:34	mash: put jeremy on the stack pls
+00:53:10	jccahill: interesting (to me) sociolinguistic note: programmers are perfectly content to use "first-class citizen" in contrast to other things when discussing technical specs, but you don't see this elsewhere ex: computers that actually handle distribution of IPsbehind NAT, etc
+00:53:16	dcwalk: I AGREE
+00:53:22	dcwalk: the quote: “The basic strategy of antidisintermediation was formulated by economists like Carl Shapiro and Hal R. Varian. Their influential book Information Rules encourages platform owners to pursue “lock-in.” As they summarize on their website, “Since information technology products work in systems, switching any single product can cost users dearly. The lock-in that results from such switching costs confers a huge competitive advantage to firms that manage their installed base of customers effectively.”
+00:53:37	dcwalk: “Decentralized systems need to be designed to be counteranti-disintermediationist. Central to the counterantidisintermediationist design is the end- to-end principle; platforms must not depend on servers and admins, even when cooperatively run, but must, to the greatest degree possible, run on the computers of the platforms users.”
+00:56:36	dcwalk: That seems like a powerful site for action…? people getting called to action
+00:59:22	mash: reminds me of the history of fandoms (copyright war waged by authors on fan fiction writers/artists)
+01:00:48	Kevin Nguyen: Can you link to patchwork?
+01:01:13	dcwalk: https://github.com/ssbc/patchwork y’all should add me on it ;)
+01:01:43	Kevin Nguyen: thanks!
+01:05:45	dcwalk: can I go next? (it’ll be short!)
+01:06:44	Matt Price: after dcwalk I see Rob
+01:07:39	Matt Price: I would like to make sure we pick up Rob's very first point -- about the divergent interests of owners and users of platforms -- although I think I kind of stopped him from discussing it in more detail earlier :-/
+01:08:04	Matt Price: oh yeah that too.
+01:08:51	dcwalk: yeah! +1 Rob’s point
+01:08:59	dcwalk: dooo it
+01:09:09	dcwalk: Anna Tsing
+01:10:25	Matt Price: https://press.princeton.edu/titles/10581.html
+01:13:02	dcwalk: Other language: nested hierarchy, poly centric (Ostrom) and con federalism (Bookchin!!!!!!!!)
+01:13:18	Kevin Nguyen: Have to jet early, so good hearing about everything. Thanks all!
+01:14:47	jccahill: do you want to talk about specific platform coop examples?
+01:15:23	jccahill: there's an index on the platform.coop site, i'll fetch it
+01:16:20	Matt Price: also the other site, besides life insurance, of the emergence of actuarial thinking mid-century.
+01:16:23	Matt Price: 19th
+01:16:37	jccahill: platform.coop/directory
+01:16:59	Matt Price: never heard it said out loud before...
+01:18:15	Matt Price: I feel so ignorant here.
+01:19:05	Seong-Young Her: the four approaches mentioned by Trebor Scholz:
+1. Standards and guidelines for platforms to be enforced by policy (e.g. Domestic Workers Alliance's "Good Work Code")
+2. Economic regulations and union rights (e.g. Seattle tax on Uber)
+3. Developing non-commercial alternatives (e.g. Wikipedia)
+4. Platform cooperativism
+01:19:28	dcwalk: Thanks Seong-Young!
+01:20:15	Seong-Young Her: the seven Rochdale Principles mentioned by Nathan Schneider (pulled from Wikipedia):
+1. The first of the Rochdale Principles states that co-operative societies must have an open and voluntary membership.
+2. The second of the Rochdale Principles states that co-operative societies must have democratic member control.
+3. Member economic participation is one of the defining features of co-operative societies, and constitutes the third Rochdale Principle in the ICA's Statement on the Co-operative Identity.
+4. The fourth of the Rochdale Principles states that co-operative societies must be autonomous and independent.
+5. The fifth of the Rochdale Principles states that co-operative societies must provide education and training to their members and the public.
+6. The sixth of the Rochdale Principles states that co-operatives cooperate with each other.
+7. The seventh of the Rochdale Principles states that co-operative societies must have concern for their communities.
+01:24:22	Matt Price: what do we need to cover before we finish up
+01:24:42	dcwalk: maybe resurface open questions, identify if we want to read any of them?
+01:24:56	Matt Price: I think there is something like: there is this tension between individual and collective welfare.
+01:25:26	Matt Price: what does it take to bring them into alignment?
+01:25:45	Matt Price: promise of social media is somehow ALSO rooted the notion of private and collective welfare supporting each other.
+01:25:57	Matt Price:  thx dcwalk ye.
+01:26:33	dcwalk: yeah something important in that last bit
+01:26:43	dcwalk: helpful examples!
+01:27:39	dcwalk: https://en.wikipedia.org/wiki/Bernard_Mandeville
+01:27:39	mash: what’s it called?
+01:27:49	dcwalk: The Fable of the Bees
+01:27:50	Rob Brackett: Thanks!
+01:28:24	dcwalk: classic case of a bad metaphor extended to have dubious descriptive purchase...?
+01:29:16	dcwalk: There is a similar line/tack around commons and justifications of enclosure.
+01:31:05	dcwalk: EDGI taking this up as an anthem? —> https://en.wikipedia.org/wiki/Solidarity_Forever
+01:34:40	dcwalk: I’ll dig up that Mabey on commons rights!
+01:35:32	Matt Price: two things for me:
+01:35:38	Matt Price: - sanctuary and enclosure
+01:36:09	Seong-Young Her: It seemed like everyone was interested in the limitations of the language of ownership, possession, frontiers, etc.
+01:36:42	Matt Price: - and then... I think the *commons* will help clarify my own questions, which I think are around understnading what collective ownership is.
+01:36:45	Matt Price: what it means
+01:37:12	Seong-Young Her: ^agreed!
+01:37:48	Rob Brackett: 👍
+01:40:57	Matt Price: I'm gonna have to sign off!
+01:41:06	Matt Price: aaaahhhhhhh...............
+01:41:29	Matt Price: falling off the channel edge.....................................................................................................................................................................................................................................................................................................................................................................................
+01:41:51	mash: bye-bye! this was really cool!
+01:41:57	Seong-Young Her: thanks Matt!
+01:42:02	Matt Price: next time I'll just try to be on time!
