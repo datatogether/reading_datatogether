@@ -11,6 +11,11 @@ Once a month on **Tuesday afternoon** we'll host a 1.5 hour discussion of one of
 
 From this initial iteration, our hope is that the following outcomes occur: first, we learn together! second, through documenting the discussion we understand Data Together principles and see opportunities to feed into ongoing other initiatives and projects
 
+- [Themes](#themes)
+- [Sessions](#sessions)
+- [Factilitation](#facilitation)
+- [Potential Readings](#potential-readings)
+
 ## Themes  
 
 - [A view on the decentralized (distributed) web](#a-view-on-the-decentralized-distributed-web) (June 26)
@@ -102,6 +107,21 @@ What is right matters, why go to justice (rather than...), what is fair is disce
 Extra Reading:
 - [Justice (SEP)](https://plato.stanford.edu/entries/justice/)
 
+## Facilitation
+
+Here are some guidelines about preparation in order to facilitate a session:
+
+- Before the session: 
+  - Have read and thought about the texts
+  - Identify and write 2-4 "themes" or questions you are interested in from the readings
+  - We use the same [shared notepad](https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#): https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#, which has a template for notes
+- During the session:
+  - Arrive on time (call should auto record as the first person enters)
+  - Ask for someone to take notes
+  - Keep time and gently wrap us up 
+- After the session:
+  - Copy the notes and open a pull request in [this repository](https://github.com/datatogether/reading_datatogether/tree/master/notes)
+
 ## Potential Readings
 
 - Galloway, A. R. (2004). Protocol: How control exists after decentralization. MIT press.
@@ -112,4 +132,3 @@ Extra Reading:
 - Raley, R. (2009). Speculative Capital. In _Tactical media (Vol. 28)_. U of Minnesota Press.
 - Dourish, P. (2017). _The stuff of bits: an essay on the materialities of information_. MIT Press. (WHOLE SECTIONS ON BGP!!!!!!!!!!!)
 - Anything by Lisa Nakamura? (e.g, Nakamura, L. (2013). Glitch racism: Networks as actors within vernacular internet theory. Culture Digitally, 10.)
-- Maybe some Fuchs on critical media? which one??!!?!!?!
