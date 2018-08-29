@@ -13,7 +13,7 @@ From this initial iteration, our hope is that the following outcomes occur: firs
 
 - [Themes](#themes)
 - [Sessions](#sessions)
-- [Factilitation](#facilitation)
+- [Facilitation](#facilitation)
 - [Potential Readings](#potential-readings)
 
 ## Themes  
