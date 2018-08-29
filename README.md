@@ -117,6 +117,7 @@ Here are some guidelines about preparation in order to facilitate a session:
   - We use the same [shared notepad](https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#): https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#, which has a template for notes
 - During the session:
   - Arrive on time (call should auto record as the first person enters)
+  - Ensure the call is recorded (it should auto-record as the first person enters, but always make sure someone presses the record button if not)
   - Ask for someone to take notes
   - Keep time and gently wrap us up 
 - After the session:
