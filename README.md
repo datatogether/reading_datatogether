@@ -49,7 +49,7 @@ How should we think about "ownership" as a value, and in what ways are individua
   - Chapter 12: Dmytri Kleiner - Counterantidisintermediation
     - _See also_: P2P Foundation wiki entry on [Counter-Anti-Disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
 - Anne-Mette Albrechtslund (2017) [Negotiating ownership and agency in social media: Community reactions to Amazon's acquisition of GoodReads. _First Monday_, may 2017. doi:10.5210/fm.v22i5.7095 ](http://firstmonday.org/ojs/index.php/fm/article/view/7095/6161)
-- **[Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**. (2018, July 15). In _Wikipedia, The Free Encyclopedia_. 
+- **[Possession is Nine Tenths of the Law](https://en.wikipedia.org/wiki/Possession_is_nine-tenths_of_the_law)**. (2018, July 15). In _Wikipedia, The Free Encyclopedia_.
     - _See also_: [Trademarks, copyrights and common law: possession is only nine-tenths of the law](http://kelleykeller.com/the-limitations-of-common-law-possession-is-only-nine-tenths-of-the-law/)
     - _See also x2_: [The Problematic Concept of Possession in the DCFR: Lessons from Law and Economics of Possession](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741200)
 
@@ -64,7 +64,7 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 ([Archive.org](https://archive.org/details/ElinorOstromGoverningTheCommons))
 ([WorldCat](https://www.worldcat.org/title/governing-the-commons-the-evolution-of-institutions-for-collective-action/oclc/1029210913))
 ([Amazon](https://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/0521405998))
-- Peter Linebaugh (2014) Chapter 9: "Enclosures from the Bottom Up," in _Stop, Thief!_ 
+- Peter Linebaugh (2014) Chapter 9: "Enclosures from the Bottom Up," in _Stop, Thief!_
 ([WorldCat](https://www.worldcat.org/title/stop-thief-the-commons-enclosures-and-resistance/oclc/1002229329))
 ([Academia.edu](https://www.academia.edu/11651199/Peter_Linebaugh-_Stop_Thief_The_Commons_Enclosures_and_Resistance-PM_Press_2014_))
 ([Amazon.com](https://www.amazon.com/Stop-Thief-Commons-Enclosures-Resistance/dp/1604867477/))
@@ -74,11 +74,14 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 
 ### Centralization vs. Decentralization (and Peer-to-peer, Federation)
 
+Now that we've thought more about possession and ownership let's return to thinking about just how decentralization differs from centralizations (and whether or how peer-to-peer or federation fit in)!
+
 **Readings**:
 
-- [Beyond distributed and decentralized: what is a federated network? Networked Cultures](networkcultures.org/unlikeus/resources/articles/what-is-a-federated-network/)
-- [Defending Internet Freedom through Decentralization: Back to the Future?](http://dci.mit.edu/assets/papers/decentralized_web.pdf)
-- [Helmond. The platformization of the web. (2015)](http://journals.sagepub.com/doi/abs/10.1177/2056305115603080)
+- Nathan Schneider (2017) "The Irresistible Power of Decentralization"—and Its Elusiveness (DRAFT--not for circulation)
+- Executive Summary (6 pages) of [Defending Internet Freedom through Decentralization: Back to the Future?](https://dci.mit.edu/research/the-decentralized-web)
+-  _See also_: [Beyond distributed and decentralized: what is a federated network? Networked Cultures](networkcultures.org/unlikeus/resources/articles/what-is-a-federated-network/)
+-  _See also_: P2P Foundation wiki entry on [Peer_to_Peer](https://wiki.p2pfoundation.net/Peer_to_Peer)
 
 ### Privacy
 
@@ -111,5 +114,6 @@ Extra Reading:
 - Terranova, T. (2004). Chapter 2: Network Dynamics. In _Network culture: Politics for the information age_. Pluto Press.
 - Raley, R. (2009). Speculative Capital. In _Tactical media (Vol. 28)_. U of Minnesota Press.
 - Dourish, P. (2017). _The stuff of bits: an essay on the materialities of information_. MIT Press. (WHOLE SECTIONS ON BGP!!!!!!!!!!!)
+- Helmond, A. (2015). [The platformization of the web.](http://journals.sagepub.com/doi/abs/10.1177/2056305115603080)
 - Anything by Lisa Nakamura? (e.g, Nakamura, L. (2013). Glitch racism: Networks as actors within vernacular internet theory. Culture Digitally, 10.)
 - Maybe some Fuchs on critical media? which one??!!?!!?!
