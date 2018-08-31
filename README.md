@@ -80,7 +80,7 @@ Now that we've thought more about possession and ownership let's return to think
 
 - Nathan Schneider (2017) "The Irresistible Power of Decentralization"—and Its Elusiveness (DRAFT--not for circulation)
 - Executive Summary (6 pages) of [Defending Internet Freedom through Decentralization: Back to the Future?](https://dci.mit.edu/research/the-decentralized-web)
--  _See also_: [Beyond distributed and decentralized: what is a federated network? Networked Cultures](networkcultures.org/unlikeus/resources/articles/what-is-a-federated-network/)
+-  _See also_: [Beyond distributed and decentralized: what is a federated network? Networked Cultures](https://networkcultures.org/unlikeus/resources/articles/what-is-a-federated-network/)
 -  _See also_: P2P Foundation wiki entry on [Peer_to_Peer](https://wiki.p2pfoundation.net/Peer_to_Peer)
 
 ### Privacy
