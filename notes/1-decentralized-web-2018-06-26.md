@@ -8,9 +8,9 @@ Just getting us all on the same page about this very, er, central question, and 
 
 **Readings**
 
-- Brewster Kahle: Locking the Web Open, a Call for a Distributed Web(http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/) or Locking the Web Open: A Call for a Decentralized Web (longer form)(http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/)
-- André Staltz "The Web Began Dying in 2014, Here's How"(https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
-- Baran, P. (1964). _On Distributed Communications_ (No. RM-4230-PR). Santa Monica, CA: Rand Corporation.(https://www.rand.org/pubs/research_memoranda/RM3420.html)
+- Brewster Kahle: [Locking the Web Open, a Call for a Distributed Web](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/) or [Locking the Web Open: A Call for a Decentralized Web (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/)
+- André Staltz ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
+- [Baran, P. (1964). _On Distributed Communications_ (No. RM-4230-PR). Santa Monica, CA: Rand Corporation.](https://www.rand.org/pubs/research_memoranda/RM3420.html)
 
 ### Themes
 
