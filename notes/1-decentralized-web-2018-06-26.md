@@ -8,9 +8,11 @@ Just getting us all on the same page about this very, er, central question, and 
 
 **Readings**
 
-- Brewster Kahle: [Locking the Web Open, a Call for a Distributed Web](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/) or [Locking the Web Open: A Call for a Decentralized Web (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/)
-- André Staltz ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
-- [Baran, P. (1964). _On Distributed Communications_ (No. RM-4230-PR). Santa Monica, CA: Rand Corporation.](https://www.rand.org/pubs/research_memoranda/RM3420.html)
+- Brewster Kahle (2015) ["Locking the Web Open, a Call for a Distributed Web"](http://brewster.kahle.org/2015/04/22/locking-the-web-open-a-call-for-a-distributed-web/)
+  - _Alternate_: Brewster Kahle (2015) ["Locking the Web Open: A Call for a Decentralized Web" (longer form)](http://brewster.kahle.org/2015/08/11/locking-the-web-open-a-call-for-a-distributed-web-2/)
+- André Staltz (2017) ["The Web Began Dying in 2014, Here's How"](https://staltz.com/the-web-began-dying-in-2014-heres-how.html)
+- Paul Baran (1964) [On Distributed Communications (No. RM-4230-PR). Santa Monica, CA: Rand Corporation. doi:10.7249/RM3420 ](https://www.rand.org/pubs/research_memoranda/RM3420.html)
+  - _Alternate_: Paul Baran (1964) [On Distributed Communications Networks. _IEEE Transactions on Communications Systems_, 12(1). doi:10.1109/TCOM.1964.1088883](https://ieeexplore.ieee.org/abstract/document/1088883/)
 
 ### Themes
 
