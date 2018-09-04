@@ -5,11 +5,11 @@ Data. Together. Let's read about it
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
 ▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
-We want to understand better just what it is that we're doing! The goal of this "syllabus" is to identify some key themes that drive Data Together as a project & as a politics, and to find some readings that help us understand those themes better.
+We want to understand better just what it is that we're doing! The goal of this "syllabus" is to identify some themes that drive Data Together as a project & as a politics, and to find some readings that help us understand those themes better.
 
-Once a month on **Tuesday afternoon** we'll host a 1.5 hour discussion of one of [six themes](#themes) over summer 2018. Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to facilitate discussion.
+Once a month on **Tuesday afternoon** we'll host a 1.5 hour discussion of one of [six themes](#themes) over summer 2018. Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to [facilitate discussion](#facilitation).
 
-From this initial iteration, our hope is that the following outcomes occur: first, we learn together! second, through documenting the discussion we understand Data Together principles and see opportunities to feed into ongoing other initiatives and projects
+From this initial iteration, our hope is that: first, we learn together!; second, through documenting discussion we can articulate Data Together principles.
 
 - [Themes](#themes)
 - [Sessions](#sessions)
@@ -73,7 +73,7 @@ Sometimes, instead of ownership, we talk about a "commons". How ought the common
 ([WorldCat](https://www.worldcat.org/title/stop-thief-the-commons-enclosures-and-resistance/oclc/1002229329))
 ([Academia.edu](https://www.academia.edu/11651199/Peter_Linebaugh-_Stop_Thief_The_Commons_Enclosures_and_Resistance-PM_Press_2014_))
 ([Amazon.com](https://www.amazon.com/Stop-Thief-Commons-Enclosures-Resistance/dp/1604867477/))
-- [Primavera De Filippi & Felix Tréguer (2015) Expanding the Internet commons: The subversive potential of wireless community networks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725358)
+- Primavera De Filippi & Felix Tréguer (2015) [Expanding the Internet commons: The subversive potential of wireless community networks.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725358)
   - _Alternate_: [Primavera De Filippi & Felix Tréguer (2014) Expanding the Internet commons: The subversive potential of wireless community networks _Journal of Peer Production_](http://peerproduction.net/issues/issue-6-disruption-and-the-law/peer-reviewed-articles/expanding-the-internet-commons-the-subversive-potential-of-wireless-community-networks/) ([**PDF**](http://peerproduction.net/wp-content/uploads/2015/01/De-Filippi-Tr%C3%A9guer-Expanding-the-Internet-Commons-with-Community-Networks.pdf))
 
 
@@ -90,7 +90,7 @@ Now that we've thought more about possession and ownership let's return to think
 
 ### Privacy
 
-Lately we've been hearing some interesting critiques of "privacy as a concept and moral imperative". Let's see if we think they hame sense.
+Lately we've been hearing some interesting critiques of "privacy as a concept and moral imperative". Let's see if we think they make sense.
 
 **Readings**:
 
