@@ -19,11 +19,11 @@ From this initial iteration, our hope is that: first, we learn together!; second
 ## Themes  
 
 - [A view on the decentralized (distributed) web](#a-view-on-the-decentralized-distributed-web) (June 26)   
-[🎬 **Recorded Call**](https://youtu.be/arkTPNnSBbk) &nbsp; [🗒 **Notes**](./1-decentralized-web-2018-06-26.md)
+[🎬 **Recorded Call**](https://youtu.be/arkTPNnSBbk) &nbsp; [🗒 **Notes**](./notes/1-decentralized-web-2018-06-26.md)
 - [Ownership](#ownership) (July 24)   
-[🎬 **Recorded Call**](https://youtu.be/b9tOkZCFhB4) &nbsp; [🗒 **Notes**](./2-ownership-2018-07-24.md)
+[🎬 **Recorded Call**](https://youtu.be/b9tOkZCFhB4) &nbsp; [🗒 **Notes**](./notes/2-ownership-2018-07-24.md)
 - [Commons](#commons) (August 21)   
-[🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./3-commons-2018-08-21.md)
+[🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./notes/3-commons-2018-08-21.md)
 - [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)
 - [Privacy](#privacy) (September 25)
 - [Justice](#justice) (October 30)
