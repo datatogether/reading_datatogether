@@ -18,9 +18,12 @@ From this initial iteration, our hope is that: first, we learn together!; second
 
 ## Themes  
 
-- [A view on the decentralized (distributed) web](#a-view-on-the-decentralized-distributed-web) (June 26)
-- [Ownership](#ownership) (July 24)
-- [Commons](#commons) (August 21)
+- [A view on the decentralized (distributed) web](#a-view-on-the-decentralized-distributed-web) (June 26)   
+[🎬 **Recorded Call**](https://youtu.be/arkTPNnSBbk) &nbsp; [🗒 **Notes**](./1-decentralized-web-2018-06-26.md)
+- [Ownership](#ownership) (July 24)   
+[🎬 **Recorded Call**](https://youtu.be/b9tOkZCFhB4) &nbsp; [🗒 **Notes**](./2-ownership-2018-07-24.md)
+- [Commons](#commons) (August 21)   
+[🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./3-commons-2018-08-21.md)
 - [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)
 - [Privacy](#privacy) (September 25)
 - [Justice](#justice) (October 30)
@@ -114,7 +117,7 @@ Extra Reading:
 
 Here are some guidelines about preparation in order to facilitate a session:
 
-- Before the session: 
+- Before the session:
   - Have read and thought about the texts
   - Identify and write 2-4 "themes" or questions you are interested in from the readings
   - We use the same [shared notepad](https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#): https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#, which has a template for notes
@@ -122,7 +125,7 @@ Here are some guidelines about preparation in order to facilitate a session:
   - Arrive on time (call should auto record as the first person enters)
   - Ensure the call is recorded (it should auto-record as the first person enters, but always make sure someone presses the record button if not)
   - Ask for someone to take notes
-  - Keep time and gently wrap us up 
+  - Keep time and gently wrap us up
 - After the session:
   - Copy the notes and open a pull request in [this repository](https://github.com/datatogether/reading_datatogether/tree/master/notes)
 

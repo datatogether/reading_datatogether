@@ -1,6 +1,8 @@
 # Data. Together. Let's read about it
 
-## 1: A view on the decentralized (distributed) web (June 26)
+## A view on the decentralized (distributed) web (June 26)
+
+[🎬 **Recorded Call**](https://youtu.be/arkTPNnSBbk)
 
 ### Intro
 
