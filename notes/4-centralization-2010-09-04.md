@@ -2,7 +2,7 @@
 
 ## Centralization vs. Decentralization (and Peer-to-peer, Federation) (Sept 4)
 
-[🎬 **Recorded Call**]()
+[🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM)
 
 ### Intro
 
