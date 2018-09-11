@@ -24,7 +24,8 @@ From this initial iteration, our hope is that: first, we learn together!; second
 [🎬 **Recorded Call**](https://youtu.be/b9tOkZCFhB4) &nbsp; [🗒 **Notes**](./notes/2-ownership-2018-07-24.md)
 - [Commons](#commons) (August 21)   
 [🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./notes/3-commons-2018-08-21.md)
-- [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)
+- [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)  
+[🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM) &nbsp; [🗒 **Notes**](./notes/4-centralization-2010-09-04.md)
 - [Privacy](#privacy) (September 25)
 - [Justice](#justice) (October 30)
 
