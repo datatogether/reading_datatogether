@@ -98,8 +98,17 @@ Lately we've been hearing some interesting critiques of "privacy as a concept an
 
 **Readings**:
 
-- [Lepore, Jill Privacy in an Age of Publicity](https://www.newyorker.com/magazine/2013/06/24/the-prism)
-- Wendy Chun Talk, Right to Loiter [Mumbai women assert their right to loiter](http://www.thehindu.com/news/cities/mumbai/Mumbai-women-assert-their-right-to-loiter/article16898193.ece)
+- Selections from Wendy Hui Kyong Chun (2016) [_Updating to Remain the Same: Habitual New Media_](https://mitpress.mit.edu/books/updating-remain-same)
+  - <really: p. 93-94, 150-165>
+  - Introduction, pp. 1-19
+  - Part II Introduction, pp. 93-94
+  - Chapter 4, pp. 135-165
+  - _See also_: Shubha Sharma (2016) [Mumbai women assert their right to loiter](http://www.thehindu.com/news/cities/mumbai/Mumbai-women-assert-their-right-to-loiter/article16898193.ece)
+- Simone Browne (2015) Chapter 4: "What did TSA find in Solange's Fro? Security Theater at the Airport," in _[Dark Matters: On the Surveillance of Blackness](https://www.dukeupress.edu/dark-matters)_
+- Jill Lepore (2013) [The Prism: Privacy in an Age of Publicity](https://www.newyorker.com/magazine/2013/06/24/the-prism)
+  - _See also_: [The Hidden History of Privacy (Edited) [📹 10:26]](https://video.newyorker.com/watch/the-hidden-history-of-privacy-edited) 
+- Finn Brunton and Helen Nissenbaum (2015) Chapter 3: "Why is obfuscation necessary?," in [_Obfuscation: A User's Guide for Privacy and Protest_](https://mitpress.mit.edu/books/obfuscation)
+
 
 ### Justice
 
