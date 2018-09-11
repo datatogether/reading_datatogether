@@ -98,8 +98,7 @@ Lately we've been hearing some interesting critiques of "privacy as a concept an
 
 **Readings**:
 
-- Selections from Wendy Hui Kyong Chun (2016) [_Updating to Remain the Same: Habitual New Media_](https://mitpress.mit.edu/books/updating-remain-same)
-  - <really: p. 93-94, 150-165>
+- Selections from Wendy Hui Kyong Chun (2016) [_Updating to Remain the Same: Habitual New Media_](https://mitpress.mit.edu/books/updating-remain-same) **focus on Part II Introduction and end of Chapter 4, pp. 93-94, 150-165**
   - Introduction, pp. 1-19
   - Part II Introduction, pp. 93-94
   - Chapter 4, pp. 135-165
