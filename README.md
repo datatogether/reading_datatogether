@@ -25,8 +25,9 @@ From this initial iteration, our hope is that: first, we learn together!; second
 - [Commons](#commons) (August 21)   
 [🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./notes/3-commons-2018-08-21.md)
 - [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)  
-[🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM) &nbsp; [🗒 **Notes**](./notes/4-centralization-2010-09-04.md)
-- [Privacy](#privacy) (September 25)
+[🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM) &nbsp; [🗒 **Notes**](./notes/4-centralization-2018-09-04.md)
+- [Privacy](#privacy) (September 25)  
+[🎬 **Recorded Call**](https://youtu.be/mLUCEcfEnxg) &nbsp; [🗒 **Notes**](./notes/5-privacy-2018-09-25.md)
 - [Justice](#justice) (October 30)
 
 ## Sessions
@@ -105,7 +106,7 @@ Lately we've been hearing some interesting critiques of "privacy as a concept an
   - _See also_: Shubha Sharma (2016) [Mumbai women assert their right to loiter](http://www.thehindu.com/news/cities/mumbai/Mumbai-women-assert-their-right-to-loiter/article16898193.ece)
 - Simone Browne (2015) Chapter 4: "What did TSA find in Solange's Fro? Security Theater at the Airport," in _[Dark Matters: On the Surveillance of Blackness](https://www.dukeupress.edu/dark-matters)_
 - Jill Lepore (2013) [The Prism: Privacy in an Age of Publicity](https://www.newyorker.com/magazine/2013/06/24/the-prism)
-  - _See also_: [The Hidden History of Privacy (Edited) [📹 10:26]](https://video.newyorker.com/watch/the-hidden-history-of-privacy-edited) 
+  - _See also_: [The Hidden History of Privacy (Edited) [📹 10:26]](https://video.newyorker.com/watch/the-hidden-history-of-privacy-edited)
 - Finn Brunton and Helen Nissenbaum (2015) Chapter 3: "Why is obfuscation necessary?," in [_Obfuscation: A User's Guide for Privacy and Protest_](https://mitpress.mit.edu/books/obfuscation)
 
 
