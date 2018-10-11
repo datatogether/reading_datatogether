@@ -121,7 +121,7 @@ Why do we care about justice (rather than alternative descriptions of how we oug
   - §§1-4
   - §§22-24
 - Diana Nucera (2014) ["Two way streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
-- Helen Nissenbaum (2007) Introduction. In [_Frontiers of Justice: Disability, Nationality, Species Membership_](http://www.hup.harvard.edu/catalog.php?isbn=9780674024106) **8 pages** 
+- Helen Nussbaum (2007) Introduction. In [_Frontiers of Justice: Disability, Nationality, Species Membership_](http://www.hup.harvard.edu/catalog.php?isbn=9780674024106) **8 pages** 
 - _See also_: Audrey Watters (2014) [From "Open" to Justice](http://hackeducation.com/2014/11/16/from-open-to-justice)
 - _See also_: [Digital Justice](http://detroitdjc.org/principles/), [Design Justice](http://designjusticenetwork.org/network-principles/) principles
 - _See also_: Public Lab [Re-imagining the Data Lifecycle](https://publiclab.org/notes/warren/07-01-2014/reimagining-the-data-lifecycle)
