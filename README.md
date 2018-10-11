@@ -112,16 +112,20 @@ Lately we've been hearing some interesting critiques of "privacy as a concept an
 
 ### Justice
 
-What is right matters, why go to justice (rather than...), what is fair is discernable (there is something wrong) (Social Justice, Environmental Justice, Data Justice, Design Justice)
+Why do we care about justice (rather than alternative descriptions of how we ought to act)? Let's explore through popular framings of justice as what is fair as well as social justice (which includes environmental justice, data justice, design justice).
 
 **Readings**:
 
-- [Digital Justice](http://detroitdjc.org/principles/), [Design Justice](http://designjusticenetwork.org/network-principles/) principles
-- Public Lab [Re-imagining the Data Lifecycle](https://publiclab.org/notes/warren/07-01-2014/reimagining-the-data-lifecycle)
-- Data Together Geo Article (?)
-
-Extra Reading:
-- [Justice (SEP)](https://plato.stanford.edu/entries/justice/)
+- Eve Tuck & K. Wayne Yang (2016) "[What justice wants](https://static1.squarespace.com/static/55807861e4b0847ced606181/t/583e3ed8f7e0ab6135358558/1480474329625/CES2.2+Tuck+and+Yang+What+Justice+Wants.pdf)" In *Critical Ethnic Studies*, *2*(2), 1-15 **focus on pp. 3-10, it will be dense!**
+- Selections from John Rawls (1971) [_A Theory of Justice_](http://www.hup.harvard.edu/catalog.php?isbn=9780674000780&content=reviews) **29 pages**
+  - §§1-4
+  - §§22-24
+- Diana Nucera (2014) ["Two way streets: Forging the Paths Towards Participatory Civic Technology"](https://civicquarterly.com/article/two-way-streets/)
+- Helen Nissenbaum (2007) Introduction. In [_Frontiers of Justice: Disability, Nationality, Species Membership_](http://www.hup.harvard.edu/catalog.php?isbn=9780674024106) **8 pages** 
+- _See also_: Audrey Watters (2014) [From "Open" to Justice](http://hackeducation.com/2014/11/16/from-open-to-justice)
+- _See also_: [Digital Justice](http://detroitdjc.org/principles/), [Design Justice](http://designjusticenetwork.org/network-principles/) principles
+- _See also_: Public Lab [Re-imagining the Data Lifecycle](https://publiclab.org/notes/warren/07-01-2014/reimagining-the-data-lifecycle)
+- _See also_: [Justice (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/justice/)
 
 ## Facilitation
 
