@@ -28,7 +28,8 @@ From this initial iteration, our hope is that: first, we learn together!; second
 [🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM) &nbsp; [🗒 **Notes**](./notes/4-centralization-2018-09-04.md)
 - [Privacy](#privacy) (September 25)  
 [🎬 **Recorded Call**](https://youtu.be/mLUCEcfEnxg) &nbsp; [🗒 **Notes**](./notes/5-privacy-2018-09-25.md)
-- [Justice](#justice) (October 30)
+- [Justice](#justice) (October 30)  
+[🎬 **Recorded Call**](https://youtu.be/8w_J6XmjY9g) &nbsp; [🗒 **Notes**](./notes/6-justice-2018-10-30.md)
 
 ## Sessions
 
