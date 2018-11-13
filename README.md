@@ -145,12 +145,6 @@ Here are some guidelines about preparation in order to facilitate a session:
 
 ## Potential Readings
 
-- Galloway, A. R. (2004). Protocol: How control exists after decentralization. MIT press.
-- Berry, D. M., & Galloway, A. R. (2016). A Network is a Network is a Network: Reflections on the Computational and the Societies of Control. Theory, Culture & Society, 33(4), 151-172.
-- Tréguer, F. (2017). Gaps and bumps in the political history of the internet. Internet Policy Review, 6(4).
-- Musiani, F. (2016). Alternative technologies as alternative institutions: the case of the domain name system. In The Turn to Infrastructure in Internet Governance (pp. 73-86). Palgrave Macmillan, New York.
-- Terranova, T. (2004). Chapter 2: Network Dynamics. In _Network culture: Politics for the information age_. Pluto Press.
-- Raley, R. (2009). Speculative Capital. In _Tactical media (Vol. 28)_. U of Minnesota Press.
-- Dourish, P. (2017). _The stuff of bits: an essay on the materialities of information_. MIT Press. (WHOLE SECTIONS ON BGP!!!!!!!!!!!)
-- Helmond, A. (2015). [The platformization of the web.](http://journals.sagepub.com/doi/abs/10.1177/2056305115603080)
-- Anything by Lisa Nakamura? (e.g, Nakamura, L. (2013). Glitch racism: Networks as actors within vernacular internet theory. Culture Digitally, 10.)
+We maintain a shared bibliography in the [`datatogether` Zotero group](https://www.zotero.org/groups/2250068/datatogether), which includes potential readings. 
+
+Anyone can request an invite on a call or by [creating a github issue](https://github.com/datatogether/reading_datatogether/issues/new) in this repository with their Zotero username.
