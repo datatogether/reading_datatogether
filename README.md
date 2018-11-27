@@ -1,6 +1,19 @@
 Data. Together. Let's read about it
 ====
 
+Data Together's reading group is a set of six conversations on themes relevant to information and ethics.
+Curated reading selections are distributed once a month; we meet to discuss on video call.
+
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+
+**Next semester of Data Together is currently in design!**
+
+**[Join the conversation and help determine what topics we will cover in Winter - Spring 2019](https://docs.google.com/document/d/1OCjnmQYA-YE0FmpagnLf3qA1IEeNz9fuIoYUONw7CUg/edit#heading=h.5vuc178cz60r)**
+
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+
+# Summer - Fall 2018 Data Together Reading Group
+
 📅 15:30-17:00 ET Tuesdays [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
 ▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
