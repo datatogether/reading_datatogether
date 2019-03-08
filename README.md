@@ -99,3 +99,9 @@ Here are some guidelines about preparation in order to facilitate a session:
 We maintain a shared bibliography in the [`datatogether` Zotero group](https://www.zotero.org/groups/2250068/datatogether), which includes potential readings. 
 
 Anyone can request an invite on a call or by [creating a github issue](https://github.com/datatogether/reading_datatogether/issues/new) in this repository with their Zotero username.
+
+## License
+
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Data Together Reading Group Materials</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+See the [`LICENSE`](./LICENSE) file for details.
