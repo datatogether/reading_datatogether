@@ -4,17 +4,9 @@ Data. Together. Let's read about it
 Data Together's reading group is a set of conversations on themes relevant to information and ethics.
 Curated reading selections are distributed once a month; we meet to discuss on video call.
 
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-**Next semester of Data Together is currently in design!**
-
-**See themes below & check back on March 1 2019 for dates & first reading materials.**
-
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
 # Spring - Summer 2019 Data Together Reading Group
 
-📅 (Dates/times coming soon) [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
+📅 17:30-19:00 ET Tuesdays [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
 ▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
@@ -29,17 +21,17 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 
 ## Themes  
 
-- [Knowledge Commons](#knowledge-commons) (April)
-- [Civics](#civics) (May)
-- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June)
-- [Stewardship](#stewardship) (July)
-- [What is Decentralization?](#what-is-decentralization) (August)
+- [Knowledge Commons](#knowledge-commons) (April 9)
+- [Civics](#civics) (May 7)
+- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4)
+- [Stewardship](#stewardship) (July 9)
+- [What is Decentralization?](#what-is-decentralization) (August 6)
 
 ## Sessions
 
 ### Knowledge Commons
 
-Check back on March 1 2019 for a topic description and date!
+Topic description coming soon!
 
 **Readings:**
 
@@ -47,7 +39,7 @@ Coming soon! Readings should appear at least 1 month before the date of discussi
 
 ### Civics
 
-Check back on March 1 2019 for a topic description and date!
+Topic description coming soon!
 
 **Readings:**
 
@@ -55,7 +47,7 @@ Coming soon! Readings should appear at least 1 month before the date of discussi
 
 ### Alternatives to Capitalist Structures
 
-Check back on March 1 2019 for a topic description and date!
+Topic description coming soon!
 
 **Readings:**
 
@@ -63,7 +55,7 @@ Coming soon! Readings should appear at least 1 month before the date of discussi
 
 ### Stewardship
 
-Check back on March 1 2019 for a topic description and date!
+Topic description coming soon!
 
 **Readings:**
 
@@ -71,7 +63,7 @@ Coming soon! Readings should appear at least 1 month before the date of discussi
 
 ### What is Decentralization?
 
-Check back on March 1 2019 for a topic description and date!
+Topic description coming soon!
 
 **Readings:**
 
