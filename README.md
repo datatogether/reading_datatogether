@@ -47,11 +47,15 @@ Coming soon! Readings should appear at least 1 month before the date of discussi
 
 ### Alternatives to Capitalist Structures
 
-Topic description coming soon!
+When we explore current centralized data models, many of our fears and challenges are driven by the power of capitalist incentives; the reduction of privacy, disproportionate influence by advertisers, and concentrated ownership of data by a few corporations are all seemingly justified by the capitalist imperative to deliver maximum value to shareholders.
+
+If the levers of capitalism place it in opposition to just data practices, can we imagine an alternative? What systems are imagined or practiced outside of capitalism, what is their power, and what do they center?
 
 **Readings:**
 
 Coming soon! Readings should appear at least 1 month before the date of discussion.
+
+Please feel free to suggest & recommend readings on the [Issue](https://github.com/datatogether/reading_datatogether/issues/41) for this session!
 
 ### Stewardship
 
