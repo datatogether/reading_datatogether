@@ -31,11 +31,19 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 
 ### Knowledge Commons
 
-Topic description coming soon!
+Let’s revisit last semester’s ideaas around governing the commons, but with more emphasis and focus on how knowledge, information, and digital data might be treated and governed as common pool resources.
 
 **Readings:**
 
-Coming soon! Readings should appear at least 1 month before the date of discussion.
+1. Ostrom and Hess [“A Framework for Analyzing the Knowledge Commons”](http://www.wtf.tw/ref/hess_ostrom_2007.pdf)
+2. Melanie Dulong de Rosnay, Hervé Le Crosnier. [An Introduction to the Digital Commons: From Common-Pool Resources to Community Governance.](https://halshs.archives-ouvertes.fr/halshs-00736920/document), 2012.
+3. This twitter thread from mmildenberger: https://twitter.com/mmildenberger/status/1102604887223750657
+4. Garrett Hardin’s [“The Tragedy of the Commons”](http://science.sciencemag.org/content/162/3859/1243/tab-pdf)
+
+We’re hoping these readings will spur us toward frameworks for understanding how open resources beyond nature can be sustainably governed.
+
+If you have any questions or want to dig into other works we considered, feel free to chime in on our planning github issue: https://github.com/datatogether/reading_datatogether/issues/40
+
 
 ### Civics
 
