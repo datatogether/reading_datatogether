@@ -35,7 +35,7 @@ Let’s revisit last semester’s ideaas around governing the commons, but with 
 
 **Readings:**
 
-1. Ostrom and Hess [“A Framework for Analyzing the Knowledge Commons”](http://www.wtf.tw/ref/hess_ostrom_2007.pdf)
+1. Ostrom and Hess “A Framework for Analyzing the Knowledge Commons” (Chapter 3, pages 41-81 of *Understanding Knowledge as a Commons*) (http://www.wtf.tw/ref/hess_ostrom_2007.pdf)
 2. Melanie Dulong de Rosnay, Hervé Le Crosnier. [An Introduction to the Digital Commons: From Common-Pool Resources to Community Governance.](https://halshs.archives-ouvertes.fr/halshs-00736920/document), 2012.
 3. This twitter thread from mmildenberger: https://twitter.com/mmildenberger/status/1102604887223750657
 4. Garrett Hardin’s [“The Tragedy of the Commons”](http://science.sciencemag.org/content/162/3859/1243/tab-pdf)
