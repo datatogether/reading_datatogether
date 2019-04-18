@@ -47,11 +47,24 @@ If you have any questions or want to dig into other works we considered, feel fr
 
 ### Civics
 
-Topic description coming soon!
+A major lens through which governance of communities is understood is civics and citizenship. Even our own texts talk about "a civic layer for the web." But it's not clear that we really know what we mean by that! In order to think about communities, and more compellingly, what forms of space and collective action could be built around decentralized forms of governance, let's read about civics!
 
 **Readings:**
 
-Coming soon! Readings should appear at least 1 month before the date of discussion.
+1. Iseult Honohan, Chapter V "Common goods and public virtue" in *[Civic Republicanism](https://www.taylorfrancis.com/books/e/9781134616114/chapters/10.4324/9780203460894-10)*. 
+    This is a somewhat academic text, and to some extent refers to concepts that are defined in the first (mostly historical) part of the book. Still, it's really very interesting and helpfully discusses the tension between a liberal and "republican" view of society and the rights and duties it confers. If it feels long and difficult, maybe concentrate on the sections labelled "Introduction", "The Common Good", "Is Civic Virture Oppressive?", "Specifying Civic Virtue", and "Conclusion" -- together these are about half the full chapter, and should (we hope!) be intelligible without the remaining sections. 
+
+2. Paul Frazee [Information Civics](https://infocivics.com/). Available at: [https://infocivics.com/](https://infocivics.com/). This is also a somewhat philosophical text, but focused on the new possibiliies that information technology opens up for civic engagement. Hopefully we can bring (1) and (3) (if you read that optional reading) into conversation with this text. 
+3. *Optional* Johnson, P., & Robinson, P. (2014). [Civic hackathons: Innovation, procurement, or civic engagement?](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) Review of Policy Research, 31(4), 349-357. Available at: [https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074](https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12074) -- Read the Intro and Conclusion, Skim the rest . This text is largely a reminder of where many of us come from, and a prompt to think about what we might want to be doing differently or better. 
+4. *Optional* **Rethinking the Civic and Citizenship**
+    These optional readings flesh out the problem of citizenship especially through an examination of the [*No one is Illegal*](http://nooneisillegal.org/) anti-racist and migrant movement. We often construct our sense of "civic" around a rights-based and liberal "citizenship regime". By examining places where that construct breaks down -- especially around immigration status -- we can maybe come to grips with the ways that "citizenship" can let us down, and maybe even the limitations of "civic" as a concept.  
+
+    - Stanford Encyclopedia of Philosophy article on [Citizenship](https://plato.stanford.edu/entries/citizenship), esp. [citizens and non-citizens](https://plato.stanford.edu/entries/citizenship/#CitiNonCitiRigh) and [feminist critique](https://plato.stanford.edu/entries/citizenship/#FemiCrit)
+    - Nyers, P. (2010). [No one is illegal between city and nation](https://journals.library.brocku.ca/index.php/SSJ/article/view/998). Studies in social justice, 4(2), 127. Available at: [https://journals.library.brocku.ca/index.php/SSJ/article/view/998](https://journals.library.brocku.ca/index.php/SSJ/article/view/998) (open access)
+        *Nyers looks at the relationship between the common claims for non-status individuals by migrants rights organizers (including No one is illegal) and the strategies for "regularization" of status at the city versus national level (e.g., through sanctuary city, immigration law changes). Through this examination Nyers highlights the forms of citizenship beyond rights and legal status.*
+    - Guardian article ['No human being is illegal'](https://www.theguardian.com/us-news/2015/dec/06/illegal-immigrant-label-offensive-wrong-activists-say) (2015)
+    - Wikipedia article on [History of Citizenship](https://en.wikipedia.org/wiki/History_of_citizenship)
+
 
 ### Alternatives to Capitalist Structures
 
