@@ -31,7 +31,7 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 
 ### Knowledge Commons
 
-Let’s revisit last semester’s ideaas around governing the commons, but with more emphasis and focus on how knowledge, information, and digital data might be treated and governed as common pool resources.
+Let’s revisit last semester’s ideas around governing the commons, but with more emphasis and focus on how knowledge, information, and digital data might be treated and governed as common pool resources.
 
 **Readings:**
 
