@@ -30,6 +30,7 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 ## Sessions
 
 ### Knowledge Commons
+**April 9**
 
 Let’s revisit last semester’s ideas around governing the commons, but with more emphasis and focus on how knowledge, information, and digital data might be treated and governed as common pool resources.
 
@@ -46,6 +47,7 @@ If you have any questions or want to dig into other works we considered, feel fr
 
 
 ### Civics
+**May 7**
 
 A major lens through which governance of communities is understood is civics and citizenship. Even our own texts talk about "a civic layer for the web." But it's not clear that we really know what we mean by that! In order to think about communities, and more compellingly, what forms of space and collective action could be built around decentralized forms of governance, let's read about civics!
 
@@ -67,6 +69,7 @@ A major lens through which governance of communities is understood is civics and
 
 
 ### Alternatives to Capitalist Structures
+**June 4**
 
 When we explore current centralized data models, many of our fears and challenges are driven by the power of capitalist incentives; the reduction of privacy, disproportionate influence by advertisers, and concentrated ownership of data by a few corporations are all seemingly justified by the capitalist imperative to deliver maximum value to shareholders.
 
@@ -86,6 +89,7 @@ If the levers of capitalism place it in opposition to just data practices, can w
 1. *Optional* Nora Marks Dauenhauer (1990): **Haa Tuwunáagu Yis** on potlatch (jsoo.éex’) **p75-109**
 
 ### Stewardship
+**July 9**
 
 Topic description coming soon!
 
@@ -94,6 +98,7 @@ Topic description coming soon!
 Coming soon! Readings should appear at least 1 month before the date of discussion.
 
 ### What is Decentralization?
+**August 6**
 
 Topic description coming soon!
 
