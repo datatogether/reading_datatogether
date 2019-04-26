@@ -77,7 +77,7 @@ If the levers of capitalism place it in opposition to just data practices, can w
 1. Kathi Weeks (2011): **The Problem with Work p5-8, 42-47, 51-57** Available at: [libcom.org](https://libcom.org/files/the-problem-with-work_-feminism-marxism-kathi-weeks.pdf)
 1. Hanna Hurr (2016): **Silvia Federici interviewed in Mask Magazine** Available at: [maskmagazine.com/the-control-issue/struggle/interview-silvia-federici](http://www.maskmagazine.com/the-control-issue/struggle/interview-silvia-federici)
 1. Cory Doctorow (2017): **Walkaway** (a novel) [Excerpt]. Available at: [tor.com/2017/04/03/excerpts-cory-doctorow-walkaway-chapter-2/](https://www.tor.com/2017/04/03/excerpts-cory-doctorow-walkaway-chapter-2/)
-1. Gibson-Graham, J.K. and E. Miller (2015): "**Economy as Ecological Livelihood**" Available at: [communityeconomies.org](http://www.communityeconomies.org/publications/chapters/economy-ecological-livelihood)
+1. Gibson-Graham, J.K. and E. Miller (2015): "**Economy as Ecological Livelihood**" Available at: [communityeconomies.org/publications/chapters/economy-ecological-livelihood](http://www.communityeconomies.org/publications/chapters/economy-ecological-livelihood)
 1. Frase, Peter (2011): "**Four Futures**" Available at: [jacobinmag.com](https://www.jacobinmag.com/2011/12/four-futures/)
 1. Michael Johnson (2012): **The Cooperative Principles, the Common Good, and Solidarity** Available at: [geo.coop](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity)
 1. Arturo Escobar (2018): **Designs for the Pluriverse** intro **p7-21**
