@@ -22,7 +22,9 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 ## Themes  
 
 - [Knowledge Commons](#knowledge-commons) (April 9)
+[🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/1-knowledge-commons-2019-04-09.md)
 - [Civics](#civics) (May 7)
+[🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/2-civics-2019-05-07.md)
 - [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4)
 - [Stewardship](#stewardship) (July 9)
 - [What is Decentralization?](#what-is-decentralization) (August 6)
