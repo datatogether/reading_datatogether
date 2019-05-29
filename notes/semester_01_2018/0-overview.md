@@ -24,17 +24,17 @@ From this initial iteration, our hope is that: first, we learn together!; second
 ## Themes  
 
 - [A view on the decentralized (distributed) web](#a-view-on-the-decentralized-distributed-web) (June 26)   
-[🎬 **Recorded Call**](https://youtu.be/arkTPNnSBbk) &nbsp; [🗒 **Notes**](./notes/1-decentralized-web-2018-06-26.md)
+[🎬 **Recorded Call**](https://youtu.be/arkTPNnSBbk) &nbsp; [🗒 **Notes**](./1-decentralized-web-2018-06-26.md)
 - [Ownership](#ownership) (July 24)   
-[🎬 **Recorded Call**](https://youtu.be/b9tOkZCFhB4) &nbsp; [🗒 **Notes**](./notes/2-ownership-2018-07-24.md)
+[🎬 **Recorded Call**](https://youtu.be/b9tOkZCFhB4) &nbsp; [🗒 **Notes**](./2-ownership-2018-07-24.md)
 - [Commons](#commons) (August 21)   
-[🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./notes/3-commons-2018-08-21.md)
+[🎬 **Recorded Call**](https://youtu.be/UqDYpMhqV6M) &nbsp; [🗒 **Notes**](./3-commons-2018-08-21.md)
 - [Centralization as opposed to Decentralization (and peer-to-peer, federation)](#centralization-vs-decentralization-and-peer-to-peer-federation) (September 4)  
-[🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM) &nbsp; [🗒 **Notes**](./notes/4-centralization-2018-09-04.md)
+[🎬 **Recorded Call**](https://youtu.be/E1bGmEnjYAM) &nbsp; [🗒 **Notes**](./4-centralization-2018-09-04.md)
 - [Privacy](#privacy) (September 25)  
-[🎬 **Recorded Call**](https://youtu.be/mLUCEcfEnxg) &nbsp; [🗒 **Notes**](./notes/5-privacy-2018-09-25.md)
+[🎬 **Recorded Call**](https://youtu.be/mLUCEcfEnxg) &nbsp; [🗒 **Notes**](./5-privacy-2018-09-25.md)
 - [Justice](#justice) (October 30)  
-[🎬 **Recorded Call**](https://youtu.be/8w_J6XmjY9g) &nbsp; [🗒 **Notes**](./notes/6-justice-2018-10-30.md)
+[🎬 **Recorded Call**](https://youtu.be/8w_J6XmjY9g) &nbsp; [🗒 **Notes**](./6-justice-2018-10-30.md)
 
 ## Sessions
 
