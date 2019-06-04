@@ -115,7 +115,7 @@ Here are some guidelines about preparation in order to facilitate a session:
 - Before the session:
   - Have read and thought about the texts
   - Identify and write 2-4 "themes" or questions you are interested in from the readings
-  - We use the same [shared notepad](https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#): https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#, which has a template for notes
+  - We use the same [shared notepad](https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#): https://hackmd.io/oEcuKALCTi-PbawLmT_Ixw#, which uses [a template for notes](./notes/template.md)
 - During the session:
   - Arrive on time (call should auto record as the first person enters)
   - Ensure the call is recorded (it should auto-record as the first person enters, but always make sure someone presses the record button if not)
