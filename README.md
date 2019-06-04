@@ -83,7 +83,8 @@ If the levers of capitalism place it in opposition to just data practices, can w
 1. Gibson-Graham, J.K. and E. Miller (2015): "**Economy as Ecological Livelihood**" Available at: [communityeconomies.org/publications/chapters/economy-ecological-livelihood](http://www.communityeconomies.org/publications/chapters/economy-ecological-livelihood)
 1. Frase, Peter (2011): "**Four Futures**" Available at: [jacobinmag.com/2011/12/four-futures/](https://www.jacobinmag.com/2011/12/four-futures/)
 1. Michael Johnson (2012): **The Cooperative Principles, the Common Good, and Solidarity** Available at: [geo.coop/story/cooperative-principles-common-good-and-solidarity](http://www.geo.coop/story/cooperative-principles-common-good-and-solidarity)
-1. Arturo Escobar (2018): **Designs for the Pluriverse** intro **p7-21**
+1. Arturo Escobar (2018): **Designs for the Pluriverse** intro **p7-21** Available at:
+[dukeupress.edu/Assets/PubMaterials/978-0-8223-7105-2_601.pdf](https://www.dukeupress.edu/Assets/PubMaterials/978-0-8223-7105-2_601.pdf)
 1. *Optional* All of Doctorow's novel **[Walkaway](https://www.goodreads.com/book/show/40604388-walkaway)**
 1. *Optional* Adrienne Maree Brown (2017): **Emergent Strategy** Resilience, Creating More Possibilities **p77-98**
 1. *Optional* Nora Marks Dauenhauer (1990): **Haa Tuwunáagu Yis** on potlatch (jsoo.éex’) **p75-109**
