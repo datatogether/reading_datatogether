@@ -1,8 +1,8 @@
-Data. Together. Let's read about it
+# Data. Together. Let's read about it
 
 ## Knowledge Commons (April 9)
 
-[🎬 **Recorded Call**](https://www.youtube.com/watch?v=bW8BYVwVbuo&list=PLtsP3g9LafVv78TIa42xr591-4CfKMYQO&index=2&t=0s)
+[🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo)
 
 ### Intro
 
