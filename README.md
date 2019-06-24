@@ -98,7 +98,34 @@ Topic description coming soon!
 
 **Readings:**
 
-Coming soon! Readings should appear at least 1 month before the date of discussion.
+1. Pastor Henry Wright (2019). **The Stewardship of Time**
+    - Minutes 2:50-6:17
+    - Available at: https://youtu.be/RWCbK8qRkuo?t=170
+    - Transcript: https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit
+2. Nora Marks Dauenhauer (1990). **Haa Tuwunáagu Yis**
+    - Elders Speak to the Future, pp. 263-267, 277-281
+3. Kat Anderson (2005). **Tending the wild**
+    - Preface, pp. xv-xviii
+    - Introduction, pp. 2-6
+    - Coda - Indigenous Wisdom in the Modern World, pp. 358-364
+    - Available at: https://www.ucpress.edu/book.php?isbn=9780520280434
+4. Trevor Owens (2017). **Theory and Craft of Digital Preservation**
+    - Sixteen Guiding Digital Preservation Axioms, pp. 6-9 
+    - Conclusion: Tools for Looking Forward, pp. 122-130
+    - Available at: https://osf.io/preprints/lissa/5cpjt
+5. Karasti, Helena & Baker, Karen & Halkola, Eija. (2006). **Enriching the Notion of Data Curation in E-Science: Data Managing and Information Infrastructuring in the Long Term Ecological Research (LTER) Network.** Computer Supported Cooperative Work. 15. 321-358. 10.1007/s10606-006-9023-2
+    - Available at: https://www.researchgate.net/publication/220169111_Enriching_the_Notion_of_Data_Curation_in_E-Science_Data_Managing_and_Information_Infrastructuring_in_the_Long_Term_Ecological_Research_LTER_Network
+6. Hannah Alpert-Abrams, David A Bliss, Itza Carbajal (2019). **Post-Custodial Archiving for the Collective Good.**
+    - Available at: https://journals.litwinbooks.com/index.php/jclis/article/view/87
+
+
+*Optional*: 
+- Nadia Eghbal. **Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure**
+    - Introduction, pp. 11-17
+    - Opportunities Ahead, pp. 124-138
+    - Available at: https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+- LTER (1990): **Long-Term Ecological Research and the Invisible Present, and Long-Term Ecological Research and the Invisible Place** 
+    - Available at: https://lternet.edu/wp-content/themes/ndic/library/pdf/reports/Number%209.pdf
 
 ### What is Decentralization?
 **August 6**
