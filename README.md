@@ -4,6 +4,8 @@ Data. Together. Let's read about it
 Data Together's reading group is a set of conversations on themes relevant to information and ethics.
 Curated reading selections are distributed once a month; we meet to discuss on video call.
 
+This year, we are creating **blog posts** of 
+
 # Spring - Summer 2019 Data Together Reading Group
 
 📅 17:30-19:00 ET Tuesdays [**Data Together Calendar**](https://calendar.google.com/calendar/embed?src=u75o4fbnv59006peo07nv67vsg%40group.calendar.google.com&ctz=America%2FToronto)  
@@ -22,10 +24,10 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 ## Themes  
 
 - [Knowledge Commons](#knowledge-commons) (April 9)
-[🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/1-knowledge-commons-2019-04-09.md)
+[🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/1-knowledge-commons-2019-04-09.md) &nbsp; [📜 **Blog Post**](https://datatogether.github.io/website/posts/01_knowledge_commons/)
 - [Civics](#civics) (May 7)
-[🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/2-civics-2019-05-07.md)
-- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4)
+[🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/2-civics-2019-05-07.md) &nbsp; [📜 **Blog Post**](https://datatogether.github.io/website/posts/02_civics/)
+- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md)
 - [Stewardship](#stewardship) (July 9)
 - [What is Decentralization?](#what-is-decentralization) (August 6)
 
