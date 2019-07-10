@@ -127,6 +127,8 @@ Topic description coming soon!
     - Introduction, pp. 11-17
     - Opportunities Ahead, pp. 124-138
     - Available at: https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+- Andrew Russel & Lee Vinsel (2016). **Hail the maintainers**  
+    - Available at: https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more
 - LTER (1990): **Long-Term Ecological Research and the Invisible Present, and Long-Term Ecological Research and the Invisible Place** 
     - Available at: https://lternet.edu/wp-content/themes/ndic/library/pdf/reports/Number%209.pdf
 
