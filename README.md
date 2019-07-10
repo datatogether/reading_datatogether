@@ -116,6 +116,7 @@ Topic description coming soon!
     - Conclusion: Tools for Looking Forward, pp. 122-130
     - Available at: https://osf.io/preprints/lissa/5cpjt
 5. Karasti, Helena & Baker, Karen & Halkola, Eija. (2006). **Enriching the Notion of Data Curation in E-Science: Data Managing and Information Infrastructuring in the Long Term Ecological Research (LTER) Network.** Computer Supported Cooperative Work. 15. 321-358. 10.1007/s10606-006-9023-2
+    - pp. 6-11, 14-16, 23-27, 30-33
     - Available at: https://www.researchgate.net/publication/220169111_Enriching_the_Notion_of_Data_Curation_in_E-Science_Data_Managing_and_Information_Infrastructuring_in_the_Long_Term_Ecological_Research_LTER_Network
 6. Hannah Alpert-Abrams, David A Bliss, Itza Carbajal (2019). **Post-Custodial Archiving for the Collective Good.**
     - Available at: https://journals.litwinbooks.com/index.php/jclis/article/view/87
