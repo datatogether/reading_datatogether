@@ -28,8 +28,8 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 - [Civics](#civics) (May 7)
 [🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/2-civics-2019-05-07.md) &nbsp; [📜 **Blog Post**](https://datatogether.github.io/website/posts/02_civics/)
 - [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md)
-- [Stewardship](#stewardship) (July 9)
-- [What is Decentralization?](#what-is-decentralization) (August 6)
+- [Stewardship](#stewardship) (August 6)
+- [What is Decentralization?](#what-is-decentralization) (September TBD)
 
 ## Sessions
 
@@ -94,7 +94,7 @@ If the levers of capitalism place it in opposition to just data practices, can w
 1. *Optional* Nora Marks Dauenhauer (1990): **Haa Tuwunáagu Yis** on potlatch (jsoo.éex’) **p75-109**
 
 ### Stewardship
-**July 9**
+**August 6**
 
 Topic description coming soon!
 
@@ -145,7 +145,7 @@ Topic description coming soon!
     - Available at: https://lternet.edu/wp-content/themes/ndic/library/pdf/reports/Number%209.pdf
 
 ### What is Decentralization?
-**August 6**
+**September TBD**
 
 Topic description coming soon!
 
