@@ -313,7 +313,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - Humbling and pressing need for us to break down barriers between producers and consumers, rely on accurate effort to translate into useful metaphors. That effor belongs on people who author protocols
 
 - Mauve: Tech in distributed space don't talk about law. People ask - What if I publish copyrighted stuff on Dat? You get sued! If you're doing something illegal, you should be sued
-    - Some tech people think exclusively about what's cryptographically possible or not possible, but miss the social aspect. The tech should have good defaults that reduce onboarding(?), but societal pressures should push forward
+    - Some tech people think exclusively about what's cryptographically possible or not possible, but miss the social aspect. The tech should have good defaults that reduce onboarding pain, but societal pressures should push forward
     - How do we as a society decide what's good and bad? What to do about it? How can tech not get in the way and provide good guarantees
     - Focusing on just the tech is not enough. It's the least interesting part. Though most to me because it's my speciality
     - On a bigger scale - cultural values, morals, stewardship we focus on. Filecoin - stewardship is in the protocol. Just publish and free market provides, no human involvement. It's one approach, but alternative is people agree on what to do and that's important
