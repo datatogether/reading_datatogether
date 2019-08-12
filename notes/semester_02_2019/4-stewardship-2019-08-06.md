@@ -162,7 +162,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 - KN: No worries, glad you're here
 - Mauve: Only glanced over notes myself, only had a week, also didn't have time. Next time will have more preparation
 - KN: No worries, question still stands
-- Mauve: Stewardship is pretty new concept. Don't have any cultural knowledge of stewardship or personal experiences. One interesting use is by Fleki(?) from Dat, putting together network like communes where nomads come and do something with a given focus and then go somewhere else. A stream of nomads coming and going. But there are people living there,  stewards of the land that keep it maintained. Nomads help less. Stewards are taking care of it so others can use it and helping coordinate people. That concept as a role is interesting and cool
+- Mauve: Stewardship is pretty new concept. Don't have any cultural knowledge of stewardship or personal experiences. One interesting use is by Fleeky(?) from Dat community, putting together network like communes where nomads come and do something with a given focus and then go somewhere else. A stream of nomads coming and going. But there are people living there,  stewards of the land that keep it maintained. Nomads help less. Stewards are taking care of it so others can use it and helping coordinate people. That concept as a role is interesting and cool
 - KB: Is that a novel or real?
 - Mauve: It's real. A community they're building. Bought land and making like a "circus" commune. Making it a network for these hubs
 - KB: Cool, is there a link?
