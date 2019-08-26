@@ -4,7 +4,7 @@ Data. Together. Let's read about it
 Data Together's reading group is a set of conversations on themes relevant to information and ethics.
 Curated reading selections are distributed once a month; we meet to discuss on video call.
 
-This year, we are creating **blog posts** of each of the conversations, which you can see at [datatogether.org](//datatogether.org)
+This year, we are creating **blog posts** of each of the conversations, which you can see at [datatogether.org](//datatogether.org).
 
 # Spring - Summer 2019 Data Together Reading Group
 
