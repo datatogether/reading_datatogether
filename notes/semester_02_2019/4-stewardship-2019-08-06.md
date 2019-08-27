@@ -7,7 +7,7 @@
 [🎬 **Recorded Call**](https://www.youtube.com/watch?v=fbJUSvO_Xvc)
 
 ### Intro
-Our selections this month begin with traditional notions and practices of stewardship. We then look briefly at present-day theory and principles around data preservation. We continue with 2 different studies of modern day institutions: an ecological research science network & an university library, and look at the continuing challenges they face and how they deal with data stewardship. Finally, we finish with a selection on the problems facing open-source software and how to sustain digital infrastructure.
+Our selections this month begin with traditional notions and practices of stewardship. We then look briefly at present-day theory and principles around data preservation. We continue with two different studies of modern day institutions: an ecological research science network & an university library, and look at the continuing challenges they face and how they deal with data stewardship. Finally, we finish with a selection on the problems facing open-source software and how to sustain digital infrastructure.
 
 ### Readings:
 
@@ -17,9 +17,9 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - Minutes 2:50-6:17
     - Available at: https://youtu.be/RWCbK8qRkuo?t=170
     - Transcript: https://docs.google.com/document/d/1l8tfRlAAL6y4JDRpeK4s--NTRcdBitMHpjsVfAzbPtU/edit
-2. Nora Marks Dauenhauer (1990). **Haa Tuwunáagu Yis**
+2. Nora Marks Dauenhauer (1990). **Haa Tuwunáagu Yís**
     - pp. 263-267, 277-281, Elders Speak to the Future 
-3. Kat Anderson (2005). **Tending the wild**
+3. Kat Anderson (2005). **Tending the Wild**
     - pp. xv-xviii, Preface 
     - pp. 2-6, Introduction 
     - pp. 358-364, Coda - Indigenous Wisdom in the Modern World
@@ -37,7 +37,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 6. Definititon of [post-custodial theory of archives](https://www2.archivists.org/glossary/terms/p/postcustodial-theory-of-archives)
 7. Hannah Alpert-Abrams, David A Bliss, Itza Carbajal (2019). **Post-Custodial Archiving for the Collective Good.**
     - pp. 5-12 
-        - Part 1: Post-custodial, Anti-Colonial, Neoliberal
+        - Part 1: Post-Custodial, Anti-Colonial, Neoliberal
         - Part 2: Labor
     - pp. 18-21, Part 4: From Common Good to a Collective Good
     - Available at: https://journals.litwinbooks.com/index.php/jclis/article/view/87
@@ -62,7 +62,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 
 ## Questions/Themes
 
-### 1) Define & Redefine. How do we define Stewards/Stewardship? What are the qualities we start from and agree with? What can we learn from other traditions of stewardship? How did others pick up on the idea? How have your ideas changed or evolved over time?
+### 1) Define & Redefine. How do we define stewards/stewardship? What are the qualities we start from and agree with? What can we learn from other traditions of stewardship? How did others pick up on the idea? How have your ideas changed or evolved over time?
 > Stewardship is the management of various assets 
 > That don't belong to you
 > ...
@@ -90,7 +90,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 
 > The traditional hand written field notebook or group station log of activities creates flexibility in practice with the possibility of in-the-field category modifications or inserted margin notes. These unexpected reorganizations and notations represent science-in-the-making yet create challenges for structured data flows and present challenges to update while data collection continues (329) - LTER
 
-> manual data taking is inherently a question of data collector and their understanding and relationship with the instrument and the ecological site in which data is collected...the "sense" for data, that ecologists acquire as collectors of their own data in the field or laboratory, plays the most important role also in their use of data collected by someone else because it helps them to understand and to assess the data (344) - LTER
+> Manual data taking is inherently a question of data collector and their understanding and relationship with the instrument and the ecological site in which data is collected...the "sense" for data, that ecologists acquire as collectors of their own data in the field or laboratory, plays the most important role also in their use of data collected by someone else because it helps them to understand and to assess the data (344) - LTER
 
 > Pushing forward with automated approaches presents a potential danger of marginalizing other approaches (345) - LTER
  
@@ -117,7 +117,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
  
 > ...one of the biggest challenges to its sustainability, is that there is no organizing body to determine what gets built or used in digital infrastructure. - (42) Eghbal
 
-* I have hesitency about things like Secure Scuttlebutt (SSB), that have no way to edit posts. I want my art to be what remains, not my growing pains. I don't want my shame and mistakes to be entertainment or reason for capital punishment (cancel culture).
+* I have hesitancy about things like Secure Scuttlebutt (SSB), that have no way to edit posts. I want my art to be what remains, not my growing pains. I don't want my shame and mistakes to be entertainment or reason for capital punishment (cancel culture).
 
 * How does maintenance and repair figure into the conversation as we focus on technological innovation and new tools?
 
@@ -125,9 +125,9 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 
 > Instead of finding pathways for people to make their way into well-paid careers in libraries, archives, and museums, our society has established pathways from communities to prisons that provide cheap labor and further undermines the future of a professional cultural heritage workforce. - (127) Owens
     
-> cost-cutting practices leads to increased dependence on lower-cost labor, including volunteers, interns, and outsourced workers..."This puts the long-term survival of archives at risk, which challenges the archival paradigm of long-term preservation and historical importance" - (10) Abrams, et. al
+> Cost-cutting practices leads to increased dependence on lower-cost labor, including volunteers, interns, and outsourced workers..."This puts the long-term survival of archives at risk, which challenges the archival paradigm of long-term preservation and historical importance" - (10) Abrams, et al.
 
-> Positions are temporary...lead to frequent staff turnover; these conditions also lead archival workers to focus on short-term goals and objectives that can be completed within the terms of their contracts. As a result, we operate without the deep knowledge that comes with long-term practice, and without the institutional memory that would enable us to sustain the many relationships on which post-custodial projects depend. - (11) Abrams, et. al
+> Positions are temporary...lead to frequent staff turnover; these conditions also lead archival workers to focus on short-term goals and objectives that can be completed within the terms of their contracts. As a result, we operate without the deep knowledge that comes with long-term practice, and without the institutional memory that would enable us to sustain the many relationships on which post-custodial projects depend. - (11) Abrams, et al.
 
 > Most of us take opening a software application for granted, the way we take turning on the lights for granted. We don't think about the human capital necessary to make that happen. - (9) Eghbal
 
@@ -170,8 +170,8 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 - KB: Thanks
 - KN: Kelsey, anything to add?
 - KB: Heard of stewardship term in 2 contexts
-    - Montessori: stewarding a space. Elementary classrooms where everybody has a chore everyday, time at the end of the day for dusting computer monitors or rolling things up, put away. Space stewardship which is cool interaction and ownership over space. No cleaners are coming. This is your space and need to take care of it.
-    - Land stewardship: My dad spent career in timber sales. Dual part - they are clear cutting Alaskan forests but also works for tribal entities. Job a decade ago was stewardship of island with monoculture of spruce. Spruce takes a 100 years to mature. A lot of trees you can harvest in 10 years. But not spruce. Had to create plans accounting for livelihood but also economic, spirtual, recreational pursuits of tribal owners or shareholders. How Alaska native claims settled out, in perpetuity. Had to create plans out 100 years
+    - Montessori: stewarding a space. Elementary classrooms where everybody has a chore every day, time at the end of the day for dusting computer monitors or rolling things up, put away. Space stewardship which is cool interaction and ownership over space. No cleaners are coming. This is your space and need to take care of it.
+    - Land stewardship: My dad spent career in timber sales. Dual part - they are clear cutting Alaskan forests but also works for tribal entities. Job a decade ago was stewardship of island with monoculture of spruce. Spruce takes 100 years to mature. A lot of trees you can harvest in 10 years. But not spruce. Had to create plans accounting for livelihood but also economic, spiritual, recreational pursuits of tribal members/shareholders. How Alaska Native claims settled out, in perpetuity. Had to create plans out 100 years
     - Think about stewardship, looking at climate change, **the importance of place.** Stewarding land as opposed to nomads, which is how I've land but still attached to place. That's why circus commune is interesting. **The importance of intergenerational persistance, passing of knowledge as you lose a place**
 - EN: Really appreciated Kelsey's observations and reflections. Also land stewardship is how I think of it, my partner's family runs a farm for a long time. Kelsey raised issue of ownership
     - So interesting, the steward is not an owner, taking care of someone else's stuff. Reflect on the reading, pastor's comments, felt shockingly insightful. Not expecting something so straight-forward for a sermon, but helped defined stewardship in terms of ownership, responsibility, accountability, all these things that go into taking care of somebody else's stuff for them in relation to others who are potentially using it. Lots going on, great selection
@@ -182,7 +182,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
 - KN: I liked that people touched on ownership. Talked to neighbor who is a pastor. They had a great term, it's the "antidote to dominion", instead of lording over or controlling something. Instead, taking care of, the proper care and use of things. Theme I wanted to touch on next
     - Within the Tending the Wild reading
     - > ...one gains respect for nature by *using* it judiciously. By using a plant or an animal, interacting with it, where it lives, and tying your well-being to its existence, you can be intimate with it and understand it. (xvi) - Anderson
-    - that's how you take care of it. Similaring the LTER paper they talked about how scientists in the field taking notes on paper, changing things in the margins, it's more visceral and by doing so they have a better sense of the data as opposed to just numbers in a spreadsheet
+    - that's how you take care of it. Similar, in the LTER paper they talked about how scientists in the field taking notes on paper, changing things in the margins, it's more visceral and by doing so they have a better sense of the data as opposed to just numbers in a spreadsheet
     - Going along with that idea, I'm curious
         - How do we interact with data on a more visceral level?
         - **More importantly, how do we get the public, the people we're trying to reach with our technology to use data in a way that they will want to steward it?**
@@ -201,7 +201,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - Think that's part of sociological relationship to data. Hardest aspect to remedy. Requires us to stop everybody, Hey! You were upset by CA (Cambridge Analytica) and somebody aggregating your information in ways you disagree with
     - Many remedies will involve convos we didn't want to have before. How do we negotiate that?
     - Shifting labor is real, moving work onto people who weren't doing work before. When thinking about stewardship of information. That's really what we're talking about, when decentralizing - pushing the burden of keeping thing available and online, turning thin clients into stewards.
-    - Paul Frazee's pick think or thin client. New responsibility, hard to change rules of game now. When internet still works this way, everyone's freeloading. Treating data people are creating as labor that can be monetized
+    - Paul Frazee's piece re thick or thin client. New responsibility, hard to change rules of game now. When internet still works this way, everyone's freeloading. Treating data people are creating as labor that can be monetized
     - Feels like central pain of decentralization and feels like one of stewardship.
     - Became a steward overnight and they didn't realize it. How do we have that convo in meaningful way, seeing value in taking SSB road
 - RB: Couple thoughts in line and counter
@@ -209,18 +209,18 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - Counterpoint in here is part of what's important, in equitable society, something we should be thinking about. A new point of consideration in these new technologies. Big part of what's different in distributed web stuff. Where things live is something you should be thinking about now, it only exists if it's well stewarded by multiple people. Bears real thinking about
     - To some degree, think it's critical in systems we want to work well that gets surfaced somehow
     - Can't criticize SSB, keep meaning to read up on protocol. To degree of declaring peer/friend, you're stewarding their data. Good thing, makes it a conscious decision. But if you're doing it also for the people you're around maybe it's less good
-    - Counterpoint - I think concerning issue isn't so much scale, as it is scope. Part about scale is more about measurate(?) scale. Mauve's point - can't expect people to also be stewards of LHC, but institutions have same sort of needs of co-work and co-stewardship. The instituions that support that also have to support scale
+    - Counterpoint - I think concerning issue isn't so much scale, as it is scope. Part about scale is more about commensurate scale. Mauve's point - can't expect people to also be stewards of LHC, but institutions have same sort of needs of co-work and co-stewardship. The instituions that support that also have to support scale
     - The concerning part to pay attention to is  scope. Intentional communities where we can consciously think about what we're stewarding and who we're communicating with. 
-    - The problem is Google storing 5 billion users data instead of community of 1000 or 10, but maybe it's lots of data. It's fine because it's a scope we can make meaningful
+    - The problem is Google storing 5 billion users' data instead of community of 1000 or 10, which could still be lots of data. It's fine because it's a scope we can make meaningful
 
 - KN: Looking at this quote right on the screen
 > Pushing forward with automated approaches presents a potential danger of marginalizing other approaches - LTER
 
-- The idea of making it invisible... I just joined SSB and the first question I asked is, "How much data is this taking up on my hard drive?"" Asked an SSB developer, how much do I add on average when I follow someone? He couldn't answer that. That's a good question
+- The idea of making it invisible... I just joined SSB and the first question I asked is, "How much data is this taking up on my hard drive?" Asked an SSB developer, how much do I add on average when I follow someone? He couldn't answer that. That's a good question
     - What I've seen is that I started at 200MB, now follow about 30 people and it's up to 1.5GB. How did I get here???
     - He showed me other clients like Patchfoo, a light-weight client. Also Manyverse, a mobile app, and I'm unsure how much it downloads. I've had to struggle with wrangling gigs on my phone, so the invisibleness scares me
 
-- RB: Reminds me of torrenting. Tracking seeding vs downloading. Tracking ratio
+- RB: Reminds me of torrenting. Tracking seeding vs downloading. It was always important to keep your ratio in check
 - EN: Basic idea of developing systems where actual use is stewarding data. Great to hear that idea. Tending the wild reading, one of the things that struck me - stewardship is often taking care implies don't touch it, don't use it.
     - Point is, actual stewarding for future, has to be used. Particularly environments, ecosystems. California's example requires use to persist over time, to look as it did. Question of use is so important. Maybe differs from other things like grandma's table where stewardship does not involve use
     - Maybe a lot of data we can tie those things. Or some data, those two things are separate.
@@ -230,9 +230,9 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - So much more to say around incentives and role of values, developing value and belief-system around data stewardship. Framing themselves as stewards
 
 - KB: Lots of thoughts, writing them down. Want to address incentivation
-    - [Inkandswitch - You own your data](https://www.inkandswitch.com/local-first.html)
+    - [Inkandswitch - You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first.html)
     - Value of offline-first apps to the user. Hint to how we make this transistion to something people feel like doing
-    - For example, programmers have been resistant of IDEs in cloud app environment. Prefer offile. 
+    - For example, programmers have been resistant of IDEs in cloud app environment. Prefer offline. 
     - Why? You want it local. Want ability to work offline. Want to understand whole file structure. it's faster.
     - Not unique to programmers. **Why is everyone ok with cloud native? Why not building offline-first on the whole?**
     - Inkandswitch looking at CRDTs. Recommend the post
@@ -248,7 +248,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - Big point of decentralization is getting rid of servers, lowering barriers to entry. Because now having to pay $5/month for tiny VM already too much because assumes: credit card, monthly income, and tech skills to muck around in server
     - Higher level building blocks that are just your device and sharing to people reduces places where need of tech expertise. Tech expertise becomes more working with your data and sharing it
 
-- B5: Reading group that has resonated is Civics. Civic republicanism was challenging and earns a place in this convo. Rewind to Eric's comment about incentives
+- B5: Reading group that has resonated is [Civics](https://datatogether.org/posts/02_civics/). Civic republicanism was challenging and earns a place in this convo. Rewind to Eric's comment about incentives
     - Mind goes to block chain, economics, one interpretation of incentives
     - But other side is let's do stewardship through dependency. I rely on data therefore will store
     - Third space that has emerged - civic angle. Articulating a moral duty to participate in preservation of information. Something we should call out and talk about, 3 buckets:
@@ -256,7 +256,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
         - Interdependence - open source
         - Classic steward - church figure taking care of text, archivist maintaining a collection. They don't depend on it, but carry a lot of weight. 
     - That's harder to talk about. In efforts for post-archival universe, we're wholly in blockchain, everything on chain and life is more boring. Or completely open-source, zealously trading - straw hats for source code. Still have middle space - agree to preserve purely because it's my job, a duty to participate somehow. We need to talk about more
-    - I think about IA, when Trump's tweets get pulled out. No one thought to archive until it was deleted. All these things that aren't valued today but are much valuable for somebody later.
+    - I think about the Internet Archive (IA), when Trump's tweets get pulled out. No one thought to archive until it was deleted. All these things that aren't valued today but are much valuable for somebody later.
     - This role doesn't fit in other 2 buckets. We should challenge ourselves to ask: 
         - **In trying to articulate why people should change their behavior along the way are we talking about digital citizenship? Should we be thinking more broadly about the convo? Is that too much?**
     - Food for thought! But I got nothing
@@ -272,7 +272,7 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - Like IPFS pinning service, not paid for but agreed on, pinning data so not everything is on my machine, so I can still use my computer. So light clients can exist. Supporting a community service that does do that
     - If this is important, have to support idea the more capable or affluent you are the more you have to store of others. What kind of community things can or should exist to offload burden?
 
-- KB: Rob's articulating what I've been calling "weight of heritage"? Also need to disambiguate 2 types of stewardship
+- KB: Rob's articulating what I've been calling "the weight of heritage"– obligation to steward an ever-growing inheritance of data/knowledge/information/wisdom. Also need to disambiguate 2 types of stewardship
     - In the present, care in the present of a thing. What SSB does. The way it is initially disseminated to a community
     - Other, more difficult, is long-term care of a thing. Which involves either aggregating infinite greater knowledge or pruning it. You have to. Things will get lost. At that point, questions of justice, "Who draws the line, why, for whom?" 
     - Interesting, like Facebook. We don't like how they handle our privacy or monetize. OTOH, you weren't planning to keep what they've kept. They do a good job showing it to you and feeling the same things
@@ -320,8 +320,9 @@ PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ej
     - A partner has data that's confidential, there should be social repurcussions, but tech should try to protect. But then, ditch math and go for the club!
 
 - KB: Loved where we started with personal artifacts moving forward. Loved moved through also: what we're keeping, why we're keeping, who we're keeping it for
-    - Close with quote from short story, talks about disappearance of data over time - The Witness
-> But something or an infinite number of things dies in every death unless the universe is possessed of a memory as the Theosophists(?) have supposed. In the course of time, there was a day that closed the last eyes to see Christ, the bottle of jounin(?), and the love of Helen each died with the death of some one man. What will die with me when I die? What pitiful or perishable form will the world lose? The voice of Macedonia Fernandez? The image of a roan horse upon the vacant lot of Cerrano and sharkas(?)? A bar of sulfur in the drawer of a mahogany desk
+    - Close with quote from short story, talks about disappearance of data over time - [The Witness](https://thefloatinglibrary.com/2008/09/14/the-witness/) by Jorge Luis Borges
+> But something, or an infinite number of things, dies in every death, unless the universe is possessed of a memory, as the theosophists have supposed.
+> In the course of time, there was a day that closed the last eyes to see Christ. The bottle of Junin, and the love of Helen each died with the death of some one man. What will die with me when I die, what pitiful or perishable form will the world lose? The voice of Macedonio Fernandez? The image of a roan horse on the vacant lot at Serrano and Charcas? A bar of sulfur in the drawer of a mahogany desk?
 
 - Stewardship and remembering tech can not solve every problem. There will be losses: experiential, deeply personal, the way the data affected you or made you feel. Cool to hear everybody talking about different ways data is impacting them. Ways in which we think about what goes forward or deleted. Maybe nothing is deleted? Finding value and remembering that not everything gets saved, so the work of trying to save what we can is all that we can do in some sense
 
