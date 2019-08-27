@@ -4,7 +4,7 @@ Data. Together. Let's read about it
 Data Together's reading group is a set of conversations on themes relevant to information and ethics.
 Curated reading selections are distributed once a month; we meet to discuss on video call.
 
-This year, we are creating **blog posts** of 
+This year, we are creating **blog posts** of each of the conversations, which you can see at [datatogether.org](//datatogether.org).
 
 # Spring - Summer 2019 Data Together Reading Group
 
@@ -12,7 +12,7 @@ This year, we are creating **blog posts** of
 🎯 Participation link (recorded): [https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566](https://edgi-video-call-landing-page.herokuapp.com/https://zoom.us/j/847315566)  
 ▶️ [**Data Together Call Playlist**](https://www.youtube.com/playlist?list=PLtsP3g9LafVul1gCctMYGm9sz5FUWr5bu)
 
-Once a month, we'll host a 1.5 hour discussion of one of our [themes](#themes). Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to [facilitate discussion](#facilitation).
+Once a month, we'll host a 1.5 hour discussion of one of our [themes](#themes). Everyone should try hard to read the *core* reading (~30 pages), and once or twice sign up to [facilitate discussion](#facilitation). [**Join the Google Group**](https://groups.google.com/forum/embed/?place=forum/datatogether/join) to be notified of upcoming meetings and readings.
 
 Our hope is that: first, we learn together!; second, through documenting discussion we can articulate Data Together principles.
 
@@ -24,10 +24,10 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 ## Themes  
 
 - [Knowledge Commons](#knowledge-commons) (April 9)
-[🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/1-knowledge-commons-2019-04-09.md) &nbsp; [📜 **Blog Post**](https://datatogether.github.io/website/posts/01_knowledge_commons/)
+[🎬 **Recorded Call**](https://youtu.be/bW8BYVwVbuo) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/1-knowledge-commons-2019-04-09.md) &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/01_knowledge_commons/)
 - [Civics](#civics) (May 7)
 [🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/2-civics-2019-05-07.md) &nbsp; [📜 **Blog Post**](https://datatogether.github.io/website/posts/02_civics/)
-- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md)
+- [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md) [📜 **Blog Post**](https://datatogether.org/posts/03_alternatives_capitalist/)
 - [Stewardship](#stewardship) (August 6) &nbsp; [🎬 **Recorded Call**](https://youtu.be/fbJUSvO_Xvc) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/4-stewardship-2019-08-06.md)
 - [What is Decentralization?](#what-is-decentralization) (September TBD)
 
