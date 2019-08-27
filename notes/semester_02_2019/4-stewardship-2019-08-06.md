@@ -11,8 +11,6 @@ Our selections this month begin with traditional notions and practices of stewar
 
 ### Readings:
 
-PDFs: https://drive.google.com/drive/u/1/folders/1K2C3AEf4tdZfMJoyC11RwjX0XwO-Ejtt
-
 1. Pastor Henry Wright (2019). **The Stewardship of Time**
     - Minutes 2:50-6:17
     - Available at: https://youtu.be/RWCbK8qRkuo?t=170
