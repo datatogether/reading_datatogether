@@ -1,4 +1,5 @@
 # Data. Together. Let's read about it
+[About the Data Together Reading Group](https://github.com/datatogether/reading_datatogether)
 
 ## Topic (Date of discussion)
 
