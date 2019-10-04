@@ -147,7 +147,7 @@ Topic description coming soon!
 ### What is Decentralization?
 **November 12, 2019**
 
-True to form, we gathered readings in a decentralized way. Themes that emerged were: looking critically at how "decentralization" is defined, how it could/should be measured, and the sticky problems that aren't automatically solved (and sometimes are actually caused) by technology.
+True to form, we gathered readings in a decentralized way. Themes that emerged were: looking critically at how "decentralization" is defined, how it could/should be measured, and the sticky problems that aren't automatically solved (and sometimes are actually caused) by technology. The readings are chunked to break them up a bit. The first 3 focus on decentralized tech and apps, the next 3 on political decentralization, and the last 2 on decentralized knowledge creation and stewardship. 
 
 **Readings:**
 
