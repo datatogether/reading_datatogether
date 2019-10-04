@@ -145,13 +145,52 @@ Topic description coming soon!
     - Available at: https://lternet.edu/wp-content/themes/ndic/library/pdf/reports/Number%209.pdf
 
 ### What is Decentralization?
-**September TBD**
+**November 12, 2019**
 
-Topic description coming soon!
+True to form, we gathered readings in a decentralized way. Themes that emerged were: looking critically at how "decentralization" is defined, how it could/should be measured, and the sticky problems that aren't automatically solved (and sometimes are actually caused) by technology.
 
 **Readings:**
 
-Coming soon! Readings should appear at least 1 month before the date of discussion.
+1. Sarah Friend. **Decentralization and its Discontents** 
+    - https://www.youtube.com/watch?v=9mRhvltGs8A
+    - Slides: https://docs.google.com/presentation/d/e/2PACX-1vRS9OW2IXhD3uboF7fDb8aBegEA7MzeqyJpGvoYxithpLYu__cwSyfZhmQj08mJvm1RPtPA6Du3bEeI/pub?start=false&loop=false&delayms=3000&slide=id.p
+2. Angela Walch. (2019) **Deconstructing 'Decentralization': Exploring the Core Claim of Crypto Systems** 
+    - pp. 11-24
+    - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3326244
+3. Kleppmann, Martin & Wiggins, Adam & Hardenberg, Peter van & McGranaghan, Mark. **Local-first Software**
+    - Read the seven ideals for local-first software
+    - https://www.inkandswitch.com/local-first.html#seven-ideals
+
+---
+
+4. Brancati, D. (2006). **Decentralization: Fueling the Fire or Dampening the Flames of Ethnic Conflict and Secessionism?**
+    - pp. 651-660, 681
+    - https://sci-hub.tw/10.1017/s002081830606019x
+5. Elinor Ostrom. **Green from the Grassroots**
+    - https://www.commondreams.org/views/2012/06/12/green-grassroots
+6. Rachel-Rose O’Leary. **This North Syrian School Is a Baby Step Toward a Blockchain Society**
+    - https://www.coindesk.com/this-north-syrian-school-is-a-baby-step-toward-a-blockchain-society
+
+---
+
+7. James C. Scott. (1998) **Seeing Like a State**
+    - pp. 309-311 (beginning of chapter 9), 
+    - pp. 323-328 "Practical Knowledge Versus Scientific Explanation" 
+    - pp. 333-339 "The Social Context of Metis and Its Destruction"
+    - https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf
+8. Jessica J. Prentice. **The Most Dangerous Notion in Reinventing Organizations** 
+    - https://medium.com/@jessicajprentice/the-most-dangerous-notion-in-reinventing-organizations-9032930295e2
+
+---
+
+**OPTIONAL**
+
+9. Adi Robertson. **How the Biggest Decentralized Social Network is Dealing With its Nazi Problem** 
+    - https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking
+10. Darius Kazemi. **Run Your Own Social** 
+    - https://runyourown.social/
+11. Longer talk of Sarah Friend. **Decentralization and its Discontents** 
+    - https://youtu.be/Km6EYsBYAlY?t=64
 
 
 ## Facilitation
