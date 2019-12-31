@@ -37,7 +37,7 @@ What is the role of an individual in a system where we hold civic roles both in 
 ### Algorithmic Racism & Environmental Data Justice
 **Discussion Date TBD**
 
-Description
+How do choices in technology design and implementation reflect and impact broader social structures?  Let's explore, starting with readings from environmental data justice and studies of algorithmic racism.
 
 **Readings:**
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/72) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
@@ -45,7 +45,7 @@ Description
 ### (Content) Moderation and Consent
 **Discussion Date TBD**
 
-Description
+This topic covers factors that impact the content that we see. How do platforms balance freedom of expression versus consent to avoid offensive content, navigate algorithmic versus human moderation and curation, or incentivize different types of interaction? What are downstream effects of these choices?
 
 **Readings:**
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/73) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
@@ -53,7 +53,7 @@ Description
 ### Data Monopolies
 **Discussion Date TBD**
 
-Description
+Most of our data and information is controlled by a handful of companies. How did this come to be, what are examples of responsible and irresponsible holding of this power, and how do we imagine we might slip the trap of data monopolies?
 
 **Readings:**
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/75) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
@@ -61,7 +61,7 @@ Description
 ### Trust (Cryptographic and Human)
 **Discussion Date TBD**
 
-Description
+New technologies attempt to free us from (data) monopolized spaces, but does cryptographic trust truly map onto or enable better human-to-human (or human-to-company or human-to-technology) trust?
 
 **Readings:**
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/74) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
@@ -69,7 +69,7 @@ Description
 ### Private Data & Policies
 **Discussion Date**
 
-Description
+How have particular implementations of data privacy policies impacted humans, economics, and legal systems? What are appropriate expectations around data privacy, and who should inform, create, or enforce policies?
 
 **Readings:**
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/76) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
