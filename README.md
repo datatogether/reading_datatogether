@@ -33,7 +33,7 @@ Our hope is that: first, we learn together!; second, through documenting discuss
 [🎬 **Recorded Call**](https://youtu.be/YUt2PxRZCYs) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/2-civics-2019-05-07.md) &nbsp; [📜 **Blog Post**](https://datatogether.org/posts/02_civics/)
 - [Alternatives to Capitalist Structures](#alternatives-to-capitalist-structures) (June 4) &nbsp; [🎬 **Recorded Call**](https://youtu.be/VWBiq1K7N4k) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/3-alternatives-to-capitalist-structures-2019-06-04.md) [📜 **Blog Post**](https://datatogether.org/posts/03_alternatives_capitalist/)
 - [Stewardship](#stewardship) (August 6) &nbsp; [🎬 **Recorded Call**](https://youtu.be/fbJUSvO_Xvc) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/4-stewardship-2019-08-06.md) [📜 **Blog Post**](https://datatogether.org/posts/04_stewardship/)
-- [What is Decentralization?](#what-is-decentralization) (November 12) &nbsp; [🎬 **Recorded Call**](https://youtu.be/74jsTUzdOZc) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/5-decentralization-2019-11-12.md)
+- [What is Decentralization?](#what-is-decentralization) (November 12) &nbsp; [🎬 **Recorded Call**](https://youtu.be/74jsTUzdOZc) &nbsp; [🗒 **Notes**](./notes/semester_02_2019/5-decentralization-2019-11-12.md) [📜 **Blog Post**](https://datatogether.org/posts/06_decentralization/)
 
 ## Sessions
 
