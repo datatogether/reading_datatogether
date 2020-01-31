@@ -25,17 +25,17 @@ What is the role of an individual in a system where we hold civic roles both in 
 
 ## Themes  
 
-- [Algorithmic Racism & Environmental Data Justice](#algorithmic-racism-environmental-data-justice) (Date TBD)
-- [Content Moderation and Consent](#content-moderation-and-consent) (Date TBD)
-- [Data Monopolies](#data-monopolies) (Date TBD)
-- [Trust (Cryptographic and Human)](#trust-cryptographic-and-human)) (Date TBD)
-- [Private Data & Policies](#private-data-policies) (Date TBD)
-- [Polity](#polity) (Date TBD)
+- [Algorithmic Racism & Environmental Data Justice](#algorithmic-racism-environmental-data-justice) (March 3)
+- [Content Moderation and Consent](#content-moderation-and-consent) (April 7)
+- [Data Monopolies](#data-monopolies) (May 5)
+- [Trust (Cryptographic and Human)](#trust-cryptographic-and-human)) (June 2)
+- [Private Data & Policies](#private-data-policies) (July 7)
+- [Polity](#polity) (August 4)
 
 ## Sessions
 
 ### Algorithmic Racism & Environmental Data Justice
-**Discussion Date TBD**
+**March 3**
 
 How do choices in technology design and implementation reflect and impact broader social structures?  Let's explore, starting with readings from environmental data justice and studies of algorithmic racism.
 
@@ -43,7 +43,7 @@ How do choices in technology design and implementation reflect and impact broade
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/72) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
 
 ### (Content) Moderation and Consent
-**Discussion Date TBD**
+**April 7**
 
 This topic covers factors that impact the content that we see. How do platforms balance freedom of expression versus consent to avoid offensive content, navigate algorithmic versus human moderation and curation, or incentivize different types of interaction? What are downstream effects of these choices?
 
@@ -51,7 +51,7 @@ This topic covers factors that impact the content that we see. How do platforms 
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/73) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
 
 ### Data Monopolies
-**Discussion Date TBD**
+**May 5**
 
 Most of our data and information is controlled by a handful of companies. How did this come to be, what are examples of responsible and irresponsible holding of this power, and how do we imagine we might slip the trap of data monopolies?
 
@@ -59,7 +59,7 @@ Most of our data and information is controlled by a handful of companies. How di
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/75) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
 
 ### Trust (Cryptographic and Human)
-**Discussion Date TBD**
+**June 2**
 
 New technologies attempt to free us from (data) monopolized spaces, but does cryptographic trust truly map onto or enable better human-to-human (or human-to-company or human-to-technology) trust?
 
@@ -67,7 +67,7 @@ New technologies attempt to free us from (data) monopolized spaces, but does cry
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/74) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
 
 ### Private Data & Policies
-**Discussion Date**
+**July 7**
 
 How have particular implementations of data privacy policies impacted humans, economics, and legal systems? What are appropriate expectations around data privacy, and who should inform, create, or enforce policies?
 
@@ -75,7 +75,7 @@ How have particular implementations of data privacy policies impacted humans, ec
 [Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/76) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
 
 ### Polity
-**Discussion Date TBD**
+**August 4**
 
 Who are the groups of people to whom we are connected in systems of governance? To whom do we owe allegiance?
 
