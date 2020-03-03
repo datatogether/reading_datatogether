@@ -35,7 +35,7 @@ What is the role of an individual in a system where we hold civic roles both in 
 ## Sessions
 
 ### Algorithmic Racism & Environmental Data Justice
-**March 3**
+**March 10**
 
 How do choices in technology design and implementation reflect and impact broader social structures?  Let's explore, starting with readings from environmental data justice and studies of algorithmic racism.
 
