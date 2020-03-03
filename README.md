@@ -25,7 +25,7 @@ What is the role of an individual in a system where we hold civic roles both in 
 
 ## Themes  
 
-- [Algorithmic Racism & Environmental Data Justice](#algorithmic-racism-environmental-data-justice) (March 3)
+- [Algorithmic Racism & Environmental Data Justice](#algorithmic-racism--environmental-data-justice) (March 3)
 - [Content Moderation and Consent](#content-moderation-and-consent) (April 7)
 - [Data Monopolies](#data-monopolies) (May 5)
 - [Trust (Cryptographic and Human)](#trust-cryptographic-and-human) (June 2)
@@ -40,7 +40,13 @@ What is the role of an individual in a system where we hold civic roles both in 
 How do choices in technology design and implementation reflect and impact broader social structures?  Let's explore, starting with readings from environmental data justice and studies of algorithmic racism.
 
 **Readings:**
-[Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/72) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
+* EDGI EDJ group, 2019: [EDJ Syllabus](https://envirodatagov.org/announcements-rollout-of-environmental-data-justice-syllabus-and-upcoming-ejxyouth-summit-online-event/)
+* Sasha Constanza-Chock, 2018: [Design Justice: Towards an Intersectional Feminist Framework for Design Theory and Practice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189696)
+* EDJ (Lourdes Vera, Dawn Walker, and many more, EDGI), 2018: [extractive logic paper](https://drive.google.com/file/d/14erRGMYNgc6b2iJNwXGGX0leQigFdAHm/view)
+* Mark Wilkinson, Michel Dumontier, and many more authors, 2016: [FAIR principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/)
+* Research Data Alliance International Indigenous Data Sovereignty Interest Group, 2019, in The Global Indigenous
+Data Alliance: [CARE principles for Indigenous Data Governance](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf)
+* Max Liboiron, 2017: [Pollution is Colonialism](https://discardstudies.com/2017/09/01/pollution-is-colonialism/)
 
 ### (Content) Moderation and Consent
 **April 7**
