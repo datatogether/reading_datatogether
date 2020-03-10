@@ -1,7 +1,7 @@
 Data. Together. Let's read about it
 ====
 
-Data Together's reading group is a set of conversations on themes relevant to information and ethics.
+Data Together's reading group is a set of conversations on themes relevant to information and ethics. Learn more and consider [joining](https://datatogether.org/join/)!
 
 *See **blog posts** of previous conversations at [datatogether.org's blog](//datatogether.org/posts/). [Previous semesters' **syllabi**](//datatogether.org/readings/) are also available.*
 
