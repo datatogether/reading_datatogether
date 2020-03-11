@@ -48,7 +48,7 @@ How do choices in technology design and implementation reflect and impact broade
 Data Alliance: [CARE principles for Indigenous Data Governance](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE+Principles_One+Pagers+FINAL_Oct_17_2019.pdf)
 * Max Liboiron, 2017: [Pollution is Colonialism](https://discardstudies.com/2017/09/01/pollution-is-colonialism/)
 
-### Content Moderation
+### Content Moderation and Consent
 **April 7**
 
 This topic covers factors that impact the content that we see. How do platforms balance freedom of expression versus consent to avoid offensive content, navigate algorithmic versus human moderation and curation, or incentivize different types of interaction? What are downstream effects of these choices?
