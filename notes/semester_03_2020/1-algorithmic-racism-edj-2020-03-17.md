@@ -2,7 +2,7 @@
 
 ## Algorithmic Racism & Environmental Data Justice (March 17)
 
-[🎬 **Recorded Call**]()
+[🎬 **Recorded Call**](https://youtu.be/0Vg-A9eK-14)
 
 ### Intro
 These selections mostly come from the environmental data justice (EDJ) Syllabus, which has been an evolving document of literature and links to organizations that work in the environmental and data justice spheres. Members of EDGI have preliminarily defined EDJ as "public accessibility and continuity of environmental data and research, supported by networked open-source data infrastructure that can be modified, adapted, and supported by local communities" (Dillon et al. 2017). 
