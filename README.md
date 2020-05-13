@@ -79,12 +79,33 @@ This topic covers factors that impact the content that we see. How do platforms 
 * The end of the Casey Newton "[Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)" article, from "Last week, I visited the Tampa site with a photographer." to the end, interesting additional perspective re trying to figure out how this stuff *should* be done
 
 ### Data Monopolies
-**May 5**
+**May 12**
 
 Most of our data and information is controlled by a handful of companies. How did this come to be, what are examples of responsible and irresponsible holding of this power, and how do we imagine we might slip the trap of data monopolies?
 
 **Readings:**
-[Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/75) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
+*Anti competitiveness, and how did we get here?*
+*  Modern day monopolies: Matt Stoller, Wall Street Journal (2019): [Why U.S. Businesses Want Trustbusting](https://www.wsj.com/articles/why-u-s-businesses-want-trustbusting-11570803088)
+* Adam Davidson, New Yorker (2017): [Teddy Roosevelt Would Not Understand the E.U.’s Antitrust Fine Against Google](https://www.newyorker.com/business/adam-davidson/teddy-roosevelt-wouldnt-understand-the-eus-antitrust-fine-against-google)
+* Prof. Dr. Wernhard Möschel (2007): US vs EU Antitrust Law: [pdf download](ftp://ftp.zew.de/pub/zew-docs/veranstaltungen/rnic/papers/WernhardMoeschel.pdf)
+
+*What are the things we worry about with monopolies?*
+* Economic / social / political bads as outcomes of monopolistic power: Ron Amadeo, Ars Technica (2018): [Internet rages after Google removes \"view images\" button, bowing to Getty](https://arstechnica.com/gadgets/2018/02/internet-rages-after-google-removes-view-image-button-bowing-to-getty/)
+* Getty (2016): [Getty Images to file competition law complaint against Google](http://press.gettyimages.com/getty-images-files-competition-law-complaint-against-google/)
+
+*Data Monopolies in a COVID era?*
+* Contact tracing and privacy? Kim Lyons, The Verge (May 2020):
+[Senators’ plan for reining in contact tracing apps doesn’t make a lot of sense](https://www.theverge.com/2020/5/1/21243977/gop-senators-contact-tracing-data-coronavirus-covid-19-privacy)
+* Data Privacy bill in response: U.S. Senate Committee on Commerce, Science, and Transportation, Press Release (Apr 2020):  [Wicker, Thune, Moran, Blackburn Announce Plans to Introduce Data Privacy Bill](https://www.commerce.senate.gov/2020/4/wicker-thune-moran-blackburn-announce-plans-to-introduce-data-privacy-bill)
+* Contact tracing proposal from Apple / Google: Google Blog (2020):
+[COVID-19 Exposure Notification Using Bluetooth Low Energy](https://www.blog.google/documents/66/Overview_of_COVID-19_Contact_Tracing_Using_BLE_1.pdf)
+
+*Optional bits to play around with for discussion:*
+* Can data monopolies be a force for good? Facebook Data for Good:
+[Disease Prevention Maps](https://dataforgood.fb.com/tools/disease-prevention-maps/)
+* Google/FB/Apple reports about data movement: 
+[Facebook Data for Good Mobility Dashboard](https://visualization.covid19mobility.org/)
+* More reading on modern monopolies: Harry Lambert, NewStatesman (2019): [Matt Stoller's Goliath: the rise of big tech](https://www.newstatesman.com/goliath-matt-stoller-review)
 
 ### Trust (Cryptographic and Human)
 **June 2**
