@@ -27,7 +27,7 @@ What is the role of an individual in a system where we hold civic roles both in 
 
 - [Algorithmic Racism & Environmental Data Justice](#algorithmic-racism--environmental-data-justice) (March 17) &nbsp; [🎬 **Recorded Call**](https://youtu.be/0Vg-A9eK-14) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/1-algorithmic-racism-edj-2020-03-17.md) &nbsp;
 - [Content Moderation and Consent](#content-moderation-and-consent) (April 7) &nbsp; [🎬 **Recorded Call**](https://youtu.be/Sb9pJfypvfg) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md) &nbsp;
-- [Data Monopolies](#data-monopolies) (May 5)
+- [Data Monopolies](#data-monopolies) (May 12)
 - [Trust (Cryptographic and Human)](#trust-cryptographic-and-human) (June 2)
 - [Private Data & Policies](#private-data-policies) (July 7)
 - [Polity](#polity) (August 4)
