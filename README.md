@@ -108,12 +108,17 @@ Most of our data and information is controlled by a handful of companies. How di
 * More reading on modern monopolies: Harry Lambert, NewStatesman (2019): [Matt Stoller's Goliath: the rise of big tech](https://www.newstatesman.com/goliath-matt-stoller-review)
 
 ### Trust (Cryptographic and Human)
-**June 2**
+**June 9**
 
 New technologies attempt to free us from (data) monopolized spaces, but does cryptographic trust truly map onto or enable better human-to-human (or human-to-company or human-to-technology) trust?
 
 **Readings:**
-[Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/74) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
+* [Optional] doteveryone. (2020). _Executive Summary **only**_ from [People, Power and Technology: The 2020 Digital Attitudes Report](https://www.doteveryone.org.uk/report/peoplepowertech2020/) _for a take on trust in the technology context more broadly_
+* Wikipedia contributors. (2020, May 15). [Trust (social science)](https://en.wikipedia.org/w/index.php?title=Trust_(social_science)&oldid=956870314)
+* Satoshi Nakamoto. (2009). _Introduction **only**_ from [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) _for the thing that kicked off this wave of trust-free technology_
+* Libra Association Members (2020). _Cover Letter (pp. 1-3) and Libra Association (pp. 24-26) **only**_ from [Libra White Paper v2.0](https://libra.org/en-US/white-paper/) _for a view on gatekeeping and trust_
+* David Cohen and William Mougayar (2015, Jan 18). [After The Social Web, Here Comes The Trust Web](https://techcrunch.com/2015/01/18/after-the-social-web-here-comes-the-trust-web/)
+* Finn Brunton (2019). _Chapter 3 (pp. 33-46) and "The Trust Bulb" in Chapter 10 (pp. 165-170) **only**_ from [Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists who created Cryptocurrency](https://press.princeton.edu/books/hardcover/9780691179490/digital-cash)
 
 ### Private Data & Policies
 **July 7**
