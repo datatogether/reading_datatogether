@@ -129,7 +129,7 @@ How have particular implementations of data privacy policies impacted humans, ec
 
 Grounding
 * Brookman & Hans, Center for Democracy & Technology (2013) [Why Collection Matters: Surveillance as a De Facto Privacy Harm](https://cdt.org/insights/report-why-collection-matters-surveillance-as-a-de-facto-privacy-harm/) on why data collection matters
-* (optional) Hochfellner, Lane, and Kreuter, Responsible Data Science, NYU Center for Data Science (2019) [Privacy and Confidentiality](https://dataresponsibly.github.io/courses/spring19/) slides 1-9, 14, 18-19, 35-37 definitions and introductions to challenges and tools
+* (optional) Hochfellner, Lane, and Kreuter, Responsible Data Science, NYU Center for Data Science (2019) [Privacy and Confidentiality](https://dataresponsibly.github.io/courses/documents/spring19/Lecture4.pdf) slides 1-9, 14, 18-19, 35-37 definitions and introductions to challenges and tools
 
 Attempted and proposed solutions
 * Sobers, Varonis (a cybersecurity company) (2020) [A Year in the Life of the GDPR: Must-Know Stats and Takeaways](https://www.varonis.com/blog/gdpr-effect-review/) a review of one year of GDPR implementation
@@ -140,12 +140,6 @@ Attempted and proposed solutions
 Other optional readings
 * (optional) FTC (2017) [Informational Injury Workshop](https://www.ftc.gov/news-events/events-calendar/2017/12/informational-injury-workshop#:~:text=The%20Federal%20Trade%20Commission%20hosted,Acting%20FTC%20Chairman%20Maureen%20K.&text=The%20FTC%20invites%20comments%20from,topics%20covered%20in%20the%20workshop.) insight on how the U.S. government collects public comment on this topic
 * (optional) [Challenging algorithmic profiling: The limits of data protection and anti-discrimination in responding to emergent discrimination](https://journals.sagepub.com/doi/pdf/10.1177/2053951719895805)
-
-#### Themes
-* Intersections with Trust conversation: does it make sense to apply the concept of trust to a corporation? 
-* Intersections with Monopolies and Consent conversations: does "consent" really apply in situations where you have to click "ok" to access the one service you need?
-* Feasibility & implementation vs principles (esp with respect to GDPR reading)
-* Intersections with algorithmic racism: how do our policy choices (wrt protection of private data) potentially enable unintentional algorithmic racism
 
 ### Polity
 **August 4**
