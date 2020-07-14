@@ -29,7 +29,7 @@ What is the role of an individual in a system where we hold civic roles both in 
 - [Content Moderation and Consent](#content-moderation-and-consent) (April 7) &nbsp; [🎬 **Recorded Call**](https://youtu.be/Sb9pJfypvfg) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md) &nbsp;
 - [Data Monopolies](#data-monopolies) (May 12) &nbsp; [🎬 **Recorded Call**](https://youtu.be/9RovyYAuPds) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/3-data-monopolies-2020-05-12.md) &nbsp;
 - [Trust (Cryptographic and Human)](#trust-cryptographic-and-human) (June 9) &nbsp; [🎬 **Recorded Call**](https://youtu.be/dgQuGy5BdAw) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/4-trust-2020-06-09.md) &nbsp;
-- [Private Data & Policies](#private-data-policies) (July 7)
+- [Private Data & Policies](#private-data-policies) (July 14)
 - [Polity](#polity) (August 4)
 
 ## Sessions
@@ -108,20 +108,38 @@ Most of our data and information is controlled by a handful of companies. How di
 * More reading on modern monopolies: Harry Lambert, NewStatesman (2019): [Matt Stoller's Goliath: the rise of big tech](https://www.newstatesman.com/goliath-matt-stoller-review)
 
 ### Trust (Cryptographic and Human)
-**June 2**
+**June 9**
 
 New technologies attempt to free us from (data) monopolized spaces, but does cryptographic trust truly map onto or enable better human-to-human (or human-to-company or human-to-technology) trust?
 
 **Readings:**
-[Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/74) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
+* [Optional] doteveryone. (2020). _Executive Summary **only**_ from [People, Power and Technology: The 2020 Digital Attitudes Report](https://www.doteveryone.org.uk/report/peoplepowertech2020/) _for a take on trust in the technology context more broadly_
+* Wikipedia contributors. (2020, May 15). [Trust (social science)](https://en.wikipedia.org/w/index.php?title=Trust_(social_science)&oldid=956870314)
+* Satoshi Nakamoto. (2009). _Introduction **only**_ from [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) _for the thing that kicked off this wave of trust-free technology_
+* Libra Association Members (2020). _Cover Letter (pp. 1-3) and Libra Association (pp. 24-26) **only**_ from [Libra White Paper v2.0](https://libra.org/en-US/white-paper/) _for a view on gatekeeping and trust_
+* David Cohen and William Mougayar (2015, Jan 18). [After The Social Web, Here Comes The Trust Web](https://techcrunch.com/2015/01/18/after-the-social-web-here-comes-the-trust-web/)
+* Finn Brunton (2019). _Chapter 3 (pp. 33-46) and "The Trust Bulb" in Chapter 10 (pp. 165-170) **only**_ from [Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists who created Cryptocurrency](https://press.princeton.edu/books/hardcover/9780691179490/digital-cash)
 
 ### Private Data & Policies
-**July 7**
+**July 14**
 
 How have particular implementations of data privacy policies impacted humans, economics, and legal systems? What are appropriate expectations around data privacy, and who should inform, create, or enforce policies?
 
 **Readings:**
-[Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/76) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
+
+Grounding
+* Brookman & Hans, Center for Democracy & Technology (2013) [Why Collection Matters: Surveillance as a De Facto Privacy Harm](https://cdt.org/insights/report-why-collection-matters-surveillance-as-a-de-facto-privacy-harm/) on why data collection matters
+* (optional) Hochfellner, Lane, and Kreuter, Responsible Data Science, NYU Center for Data Science (2019) [Privacy and Confidentiality](https://dataresponsibly.github.io/courses/documents/spring19/Lecture4.pdf) slides 1-9, 14, 18-19, 35-37 definitions and introductions to challenges and tools
+
+Attempted and proposed solutions
+* Sobers, Varonis (a cybersecurity company) (2020) [A Year in the Life of the GDPR: Must-Know Stats and Takeaways](https://www.varonis.com/blog/gdpr-effect-review/) a review of one year of GDPR implementation
+* Office of the Press Secretary, The White House (2012) [We Can’t Wait: Obama Administration Unveils Blueprint for a “Privacy Bill of Rights” to Protect Consumers Online](https://obamawhitehouse.archives.gov/the-press-office/2012/02/23/we-can-t-wait-obama-administration-unveils-blueprint-privacy-bill-rights) Obama White House proposed approach
+* O'Connor, Digital and Cyberspace Policy Program, Council on Foreign Relations (2018) [Reforming the U.S. Approach to Data Protection and Privacy](https://www.cfr.org/report/reforming-us-approach-data-protection) a critique of current U.S. approach and suggestion for path forward
+* (optional) Balkin & Zittrain, The Atlantic (2016) [A Grand Bargain to Make Tech Companies More Trustworthy](https://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/) on applying the legal concept of a fiduciary to information as well as to finances (intersection with Trust conversation)
+
+Other optional readings
+* (optional) FTC (2017) [Informational Injury Workshop](https://www.ftc.gov/news-events/events-calendar/2017/12/informational-injury-workshop#:~:text=The%20Federal%20Trade%20Commission%20hosted,Acting%20FTC%20Chairman%20Maureen%20K.&text=The%20FTC%20invites%20comments%20from,topics%20covered%20in%20the%20workshop.) insight on how the U.S. government collects public comment on this topic
+* (optional) [Challenging algorithmic profiling: The limits of data protection and anti-discrimination in responding to emergent discrimination](https://journals.sagepub.com/doi/pdf/10.1177/2053951719895805)
 
 ### Polity
 **August 4**
