@@ -29,8 +29,8 @@ What is the role of an individual in a system where we hold civic roles both in 
 - [Content Moderation and Consent](#content-moderation-and-consent) (April 7) &nbsp; [🎬 **Recorded Call**](https://youtu.be/Sb9pJfypvfg) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md) &nbsp;
 - [Data Monopolies](#data-monopolies) (May 12) &nbsp; [🎬 **Recorded Call**](https://youtu.be/9RovyYAuPds) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/3-data-monopolies-2020-05-12.md) &nbsp;
 - [Trust (Cryptographic and Human)](#trust-cryptographic-and-human) (June 9) &nbsp; [🎬 **Recorded Call**](https://youtu.be/dgQuGy5BdAw) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/4-trust-2020-06-09.md) &nbsp;
-- [Private Data & Policies](#private-data--policies) (Date TBD)
-- [Polity](#polity) (Date TBD)
+- [Private Data & Policies](#private-data--policies) (September 15)
+- [Polity](#polity) (October 6)
 
 ## Sessions
 
@@ -121,7 +121,7 @@ New technologies attempt to free us from (data) monopolized spaces, but does cry
 * Finn Brunton (2019). _Chapter 3 (pp. 33-46) and "The Trust Bulb" in Chapter 10 (pp. 165-170) **only**_ from [Digital Cash: The Unknown History of the Anarchists, Utopians, and Technologists who created Cryptocurrency](https://press.princeton.edu/books/hardcover/9780691179490/digital-cash)
 
 ### Private Data & Policies
-**Date TBD**
+**September 15**
 
 How have particular implementations of data privacy policies impacted humans, economics, and legal systems? What are appropriate expectations around data privacy, and who should inform, create, or enforce policies?
 
@@ -142,7 +142,7 @@ Other optional readings
 * (optional) [Challenging algorithmic profiling: The limits of data protection and anti-discrimination in responding to emergent discrimination](https://journals.sagepub.com/doi/pdf/10.1177/2053951719895805)
 
 ### Polity
-**Date TBD**
+**October 6**
 
 Who are the groups of people to whom we are connected in systems of governance? To whom do we owe allegiance?
 
