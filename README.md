@@ -152,7 +152,7 @@ Who are the groups of people to whom we are connected in systems of governance? 
 - Grounding (volunteerism and polities in technology):
   - [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
 - [Microstructures and Design Elements of Liberating Structures](http://www.liberatingstructures.com/design-elements/)
-- [🎬 Democracy --> Sociocracy (un)learning individual and group patterns [whoel video encouraged!]](https://www.youtube.com/watch?v=HvFZL2tGLiM&t)
+- [🎬 Democracy --> Sociocracy (un)learning individual and group patterns [whole video encouraged!]](https://www.youtube.com/watch?v=HvFZL2tGLiM&t)
 - [The Catalan Integral Cooperative: an organizational study of a post-capitalist cooperative](https://p2pfoundation.net/wp-content/uploads/2017/10/The-Catalan-Integral-Cooperative.pdf), _focus on 1. Introduction, 3. CIC in a nutshell, 9. Summing up..._ 
 
 Other material:
