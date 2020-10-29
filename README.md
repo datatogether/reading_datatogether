@@ -29,7 +29,7 @@ What is the role of an individual in a system where we hold civic roles both in 
 - [Content Moderation and Consent](#content-moderation-and-consent) (April 7) &nbsp; [🎬 **Recorded Call**](https://youtu.be/Sb9pJfypvfg) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/2-content-moderation-consent-2020-04-07.md) &nbsp;
 - [Data Monopolies](#data-monopolies) (May 12) &nbsp; [🎬 **Recorded Call**](https://youtu.be/9RovyYAuPds) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/3-data-monopolies-2020-05-12.md) &nbsp;
 - [Trust (Cryptographic and Human)](#trust-cryptographic-and-human) (June 9) &nbsp; [🎬 **Recorded Call**](https://youtu.be/dgQuGy5BdAw) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/4-trust-2020-06-09.md) &nbsp;
-- [Private Data & Policies](#private-data--policies) (September 22)
+- [Private Data & Policies](#private-data--policies) (September 22) &nbsp; [🎬 **Recorded Call**](https://youtu.be/Qiw-WKBQ8A4) &nbsp; [🗒 **Notes**](./notes/semester_03_2020/5-privacy-2020-09-22.md) &nbsp;
 - [Polity](#polity) (October 6)
 
 ## Sessions
