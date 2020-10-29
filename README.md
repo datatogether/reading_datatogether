@@ -147,16 +147,15 @@ Other optional readings
 Who are the groups of people to whom we are connected in systems of governance? To whom do we owe allegiance?
 
 **Readings:**
-[Suggest readings for this topic here!](https://github.com/datatogether/reading_datatogether/issues/77) The topic's facilitators will then curate final reading selections & distribute at least one month before the discussion.
 
-- Grounding (volunteerism and polities in technology):
-  - [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
-- [Microstructures and Design Elements of Liberating Structures](http://www.liberatingstructures.com/design-elements/)
-- [🎬 Democracy --> Sociocracy (un)learning individual and group patterns [whole video encouraged!]](https://www.youtube.com/watch?v=HvFZL2tGLiM&t)
-- [The Catalan Integral Cooperative: an organizational study of a post-capitalist cooperative](https://p2pfoundation.net/wp-content/uploads/2017/10/The-Catalan-Integral-Cooperative.pdf), _focus on 1. Introduction, 3. CIC in a nutshell, 9. Summing up..._ 
+* Grounding (volunteerism and polities in technology):
+  * [The Internet Relies on People Working for Free](https://onezero.medium.com/the-internet-relies-on-people-working-for-free-a79104a68bcc)
+* [Microstructures and Design Elements of Liberating Structures](http://www.liberatingstructures.com/design-elements/)
+* [🎬 Democracy --> Sociocracy (un)learning individual and group patterns [whole video encouraged!]](https://www.youtube.com/watch?v=HvFZL2tGLiM&t)
+* [The Catalan Integral Cooperative: an organizational study of a post-capitalist cooperative](https://p2pfoundation.net/wp-content/uploads/2017/10/The-Catalan-Integral-Cooperative.pdf), _focus on 1. Introduction, 3. CIC in a nutshell, 9. Summing up..._ 
 
 Other material:
-- (optional) ['Indigenous people are a polity'. On sovereignty and constitutional recognition](https://theconversation.com/indigenous-people-are-a-polity-on-sovereignty-and-constitutional-recognition-44287)
+* (optional) ['Indigenous people are a polity'. On sovereignty and constitutional recognition](https://theconversation.com/indigenous-people-are-a-polity-on-sovereignty-and-constitutional-recognition-44287)
 
 ## Facilitation
 
